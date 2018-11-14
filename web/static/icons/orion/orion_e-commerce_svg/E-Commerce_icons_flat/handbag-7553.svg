@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Handbag</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  fill="#78d1f4" d="M14 28h36l12 32H2l12-32z"></path>
+  <path data-name="layer1" d="M42 37a1 1 0 0 1-1-1V14a9 9 0 0 0-18 0v22a1 1 0 0 1-2 0V14a11 11 0 0 1 22 0v22a1 1 0 0 1-1 1z"
+  fill="#7b8baf"></path>
+  <path data-name="opacity" d="M46 47H18a1 1 0 0 1 0-2h28a1 1 0 0 1 0 2z"
+  fill="#000064" opacity=".1"></path>
+</svg>

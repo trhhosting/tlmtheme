@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>This Way Up</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  fill="#cce3ff" d="M2 2h60v60H2z"></path>
+  <path data-name="layer1" d="M54 53H10a1 1 0 1 0 0 2h44a1 1 0 0 0 0-2zM11.99 21a1 1 0 0 0 .707-.293l6.3-6.3v29.601a1 1 0 0 0 2 0v-29.6l6.3 6.3a1 1 0 1 0 1.418-1.408l-8.009-8A1.011 1.011 0 0 0 20 11a1.009 1.009 0 0 0-.707.294l-8.007 8A1 1 0 0 0 11.99 21zm24.746-.289l6.3-6.3v29.597a1 1 0 0 0 2 0v-29.6l6.3 6.3a1 1 0 1 0 1.418-1.408l-8.009-8a1.011 1.011 0 0 0-.7-.293 1.009 1.009 0 0 0-.707.294l-8.007 8a1 1 0 1 0 1.414 1.414z"
+  fill="#7b8baf"></path>
+</svg>

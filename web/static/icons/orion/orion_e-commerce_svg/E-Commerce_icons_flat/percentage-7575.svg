@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Percentage</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  d="M28.181 16.481a12 12 0 1 0-12 12 12.014 12.014 0 0 0 12-12zm-18 0a6 6 0 1 1 6 6 6.007 6.007 0 0 1-6.001-5.999zm37.638 19.038a12 12 0 1 0 12 12 12.013 12.013 0 0 0-12-12zm0 18a6 6 0 1 1 6-6 6.007 6.007 0 0 1-6 6z"
+  fill="#c3d6f9"></path>
+  <path data-name="layer1" fill="#a7c5f2" d="M7.048 52.719l45.109-45.11 4.232 4.232-45.11 45.11z"></path>
+</svg>

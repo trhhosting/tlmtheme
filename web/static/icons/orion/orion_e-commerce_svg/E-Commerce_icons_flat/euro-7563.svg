@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Euro</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  d="M47.3 8H51V2h-3.7a30.22 30.22 0 0 0-29.178 23H13v6h4.324c-.01 0-.024.658-.024.977 0 1.011.052 2.023.15 3.023H16v6h2.681A30.253 30.253 0 0 0 47.3 62H51v-6h-3.7a23.716 23.716 0 0 1-22.243-15H42v-6H23.494a24.744 24.744 0 0 1-.194-3.023c0-.32.011-.977.024-.977H45v-6H24.331A23.82 23.82 0 0 1 47.3 8z"
+  fill="#a7c5f2"></path>
+  <path data-name="layer1" fill="#c3d6f9" d="M13 25h32v6H13z"></path>
+  <path data-name="opacity" d="M20.549 45.508L25.057 41h-6.376a29.7 29.7 0 0 0 1.868 4.508zM17.324 31c-.01 0-.024.658-.024.977 0 1.011.052 2.023.15 3.023h-1.137v3.012L23.324 31z"
+  fill="#000064" opacity=".1"></path>
+  <path data-name="layer1" fill="#c3d6f9" d="M16 35h26v6H16z"></path>
+</svg>

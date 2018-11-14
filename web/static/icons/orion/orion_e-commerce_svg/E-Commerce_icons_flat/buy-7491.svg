@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Buy</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer4"
+  d="M17 27a1 1 0 0 1-.969-.758L12.219 11H3a1 1 0 0 1 0-2h10a1 1 0 0 1 .97.758l4 16A1 1 0 0 1 17 27z"
+  fill="#72b292"></path>
+  <path data-name="layer3" fill="#92d5b5" d="M22 50h32l8-24H16.008L22 50z"></path>
+  <circle data-name="layer2" cx="24" cy="58" r="4" fill="#7b8baf"></circle>
+  <circle data-name="layer2" cx="50" cy="58" r="4" fill="#7b8baf"></circle>
+  <path data-name="layer1" d="M48.707 14.293a1 1 0 0 0-1.414 0L39 22.586V2a1 1 0 0 0-2 0v20.586l-8.293-8.293a1 1 0 1 0-1.414 1.414l10 10a1 1 0 0 0 1.414 0l10-10a1 1 0 0 0 0-1.414z"
+  fill="#556685"></path>
+</svg>

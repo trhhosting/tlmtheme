@@ -1,0 +1,58 @@
+<!--     *********    PRICING 5     *********      -->
+<div *ngFor="let c of data" class="pricing-5 section-gray">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4">
+				<h2 class="title">{{c.title}}</h2>
+				<div class="choose-plan">
+					<ul class="nav nav-pills nav-pills-danger" role="tablist">
+						<li class="nav-item">
+							<a class="nav-link active" data-toggle="tab" [href]="c.menus[1].menuLink" role="tab">{{c.menus[1].menuName}}</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" data-toggle="tab" [href]="c.menus[2].menuLink" role="tab">{{c.menus[2].menuName}}</a>
+						</li>
+					</ul>
+				</div>
+				<br/>
+				<p class="description text-gray">{{c.subTitle}}</p>
+			</div>
+			<div class="col-md-7 ml-auto">
+				<div class="tab-content text-center">
+					<div class="tab-pane active" id="personal" role="tabpanel">
+						<div class="space-top"></div>
+						<div class="row">
+							<div class="col-md-6">
+								<div class="card card-pricing">
+									<div class="card-body">
+										<h6 class="card-category text-primary"> {{c.card1.title}} </h6>
+										<h1 class="card-title"> {{c.card1.price['USD']}} </h1>
+										<ul *ngFor="let dsi of c.card1.descItems">
+											<li>{{dsi}}</li>
+
+										</ul>
+										<a [href]="c.card1.buttons['buttonLink']" class="btn btn-primary btn-round">{{c.card1.buttons['buttonText']}}</a>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-6">
+								<div class="card card-pricing" data-color="orange">
+									<div class="card-body">
+										<h6 class="card-category text-primary">{{c.card2.title}}</h6>
+										<h1 class="card-title">{{c.card2.price['USD']}}</h1>
+										<ul *ngFor="let dsi of c.card2.descItems" >
+											<li>{{dsi}}</li>
+
+										</ul>
+										<a [href]="c.card2.buttons['buttonLink']" class="btn btn-primary btn-round">{{c.card2.buttons['buttonText']}}</a>
+									</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+	</div>
+</div>
+<!--     *********    END PRICING 5      *********      -->

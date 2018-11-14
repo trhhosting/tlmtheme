@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Presentation</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer4"
+  d="M16 58a1 1 0 0 1-.747-1.665l16-17.992a1 1 0 1 1 1.494 1.33l-16 17.992A1 1 0 0 1 16 58z"
+  fill="#7b8baf"></path>
+  <path data-name="layer4" d="M48 58a1 1 0 0 1-.748-.336l-16-17.992a1 1 0 1 1 1.494-1.33l16 17.992A1 1 0 0 1 48 58z"
+  fill="#7b8baf"></path>
+  <path data-name="layer4" d="M32 60a1 1 0 0 1-1-1V39a1 1 0 1 1 2 0v20a1 1 0 0 1-1 1z"
+  fill="#7b8baf"></path>
+  <path data-name="opacity" d="M32 60a1 1 0 0 1-1-1V39a1 1 0 1 1 2 0v20a1 1 0 0 1-1 1z"
+  fill="#fff" opacity=".4"></path>
+  <path data-name="layer3" fill="#cce3ff" d="M6 10.001h52v32H6z"></path>
+  <path data-name="layer2" fill="#f27e7c" d="M6 4.001h52v6H6z"></path>
+  <path data-name="layer1" d="M59 43H5a1 1 0 0 1 0-2h54a1 1 0 0 1 0 2z"
+  fill="#e9f4ff"></path>
+  <path data-name="opacity" fill="#000064" opacity=".1" d="M6 10.001h52V12H6z"></path>
+</svg>

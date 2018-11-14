@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Price Tag</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer1"
+  d="M59.59 4.409L38.363 3 3 38.365 25.637 61 61 25.636zM48 19a4 4 0 1 1 4-4 4 4 0 0 1-4 4z"
+  fill="#a0dff7"></path>
+  <path data-name="opacity" d="M38.363 3L3 38.365l11.318 11.317 31.4-31.4a4 4 0 1 1 5.56-5.56l8.312-8.311z"
+  fill="#000064" opacity=".15"></path>
+</svg>

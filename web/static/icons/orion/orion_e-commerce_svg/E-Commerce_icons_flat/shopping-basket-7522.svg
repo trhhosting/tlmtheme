@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Shopping Basket</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer4"
+  fill="#f7c98a" d="M58 30l-6 30H12.018L6.066 30H58z"></path>
+  <path data-name="layer3" d="M54 31a1 1 0 0 1-1-1v-2A19.047 19.047 0 0 0 37.775 9.375a1 1 0 0 1 .4-1.961A21.055 21.055 0 0 1 55 28v2a1 1 0 0 1-1 1zm-44 0a1 1 0 0 1-1-1v-2A21.06 21.06 0 0 1 25.769 7.428a1 1 0 1 1 .4 1.959A19.054 19.054 0 0 0 11 28v2a1 1 0 0 1-1 1z"
+  fill="#7b8baf"></path>
+  <path data-name="opacity" d="M32 53a1 1 0 0 1-1-1V38a1 1 0 0 1 2 0v14a1 1 0 0 1-1 1zm-11 0a1 1 0 0 1-1-1V38a1 1 0 0 1 2 0v14a1 1 0 0 1-1 1zm22 0a1 1 0 0 1-1-1V38a1 1 0 0 1 2 0v14a1 1 0 0 1-1 1z"
+  fill="#000064" opacity=".1"></path>
+  <path data-name="layer2" d="M60 31H4a1 1 0 0 1 0-2h56a1 1 0 0 1 0 2z"
+  fill="#ffdda4"></path>
+  <path data-name="layer1" d="M38 8a4 4 0 0 1-4 4h-4a4 4 0 0 1-4-4 4 4 0 0 1 4-4h4a4 4 0 0 1 4 4z"
+  fill="#f06365"></path>
+</svg>

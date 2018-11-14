@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Refresh Shopping Cart</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer4"
+  fill="#a7c5f2" d="M38 52.001H12.018L6.067 22h51.934l-2.262 11.31L51 52.001H38z"></path>
+  <path data-name="layer3" d="M8.066 23a1 1 0 0 1-.744-1.668l17.934-20a1 1 0 0 1 1.489 1.335l-17.934 20a1 1 0 0 1-.745.333zM56 23a1 1 0 0 1-.744-.332l-18-20a1 1 0 0 1 1.486-1.338l18 20A1 1 0 0 1 56 23z"
+  fill="#7b8baf"></path>
+  <path data-name="layer2" d="M60 23H4a1 1 0 0 1 0-2h56a1 1 0 1 1 0 2z"
+  fill="#c3d6f9"></path>
+  <path data-name="layer1" d="M62.7 49.29a1 1 0 0 0-1.414.007l-3.229 3.261A13.41 13.41 0 0 0 58.313 50a12.66 12.66 0 1 0-12.657 13 1 1 0 0 0 0-2 11.006 11.006 0 1 1 10.657-11 11.38 11.38 0 0 1-.239 2.288L53.113 49.3a1 1 0 0 0-1.422 1.4l4.8 4.848a1 1 0 0 0 1.421 0l4.8-4.847a1 1 0 0 0-.012-1.411z"
+  fill="#556685"></path>
+</svg>

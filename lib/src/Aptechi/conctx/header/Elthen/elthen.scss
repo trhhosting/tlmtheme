@@ -1,0 +1,50 @@
+/*
+* Legion Market v1
+* Copyright 2018, Legion Market
+* www.legionmarket.com
+* Free to use under the GPLv3 license.
+*/
+
+video {
+  top: 6px;
+  display: inline-block;
+  height: 250px;
+  position: relative;
+  margin-left: 10px;
+  margin-top: auto;
+  border-color: transparent;
+  @media (min-width: 1151px) {
+    height: 350px;
+  }
+  @media (max-width: 1150px) {
+    position: relative;
+    margin-left: 0;
+  }
+}
+nav {
+  @media (max-width: 1151px) {
+    visibility: hidden;
+  }
+
+}
+.tlm-page-header {
+  background-color: #B2AFAB;
+  background-position: center center;
+  background-size: cover;
+  min-height: 100vh;
+  position: static;
+  width: 100%;
+  z-index: 1;
+  @media (min-width: 1151px) {
+
+  }
+  @media (max-width: 1151px) {
+    position: relative;
+    h2 {
+      font-size: x-large;
+    }
+    h3 {
+      font-size: 1.4em;
+    }
+  }
+}

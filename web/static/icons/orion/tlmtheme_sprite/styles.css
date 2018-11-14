@@ -1,0 +1,31 @@
+
+    .theme-line-0 {
+      --layer2: #202020;
+      --layer1: #202020;}
+    
+    .theme-color-1 {
+      --layer1: #f7d8bc;
+      --stroke: #2f446a;}
+    
+    .theme-color-2 {
+      --layer1: #f6b36d;
+      --layer2: #faf287;
+      --layer3: #f04848;
+      --stroke: #2f446a;}
+    
+    .theme-line-4 {
+      --layer1: #202020;}
+    
+    .theme-color-5 {
+      --layer3: #f05a41;
+      --layer2: #bacae8;
+      --layer1: #dde5f4;
+      --stroke: #2f446a;}
+    
+    .theme-color-7 {
+      --layer4: #f27e7c;
+      --layer3: #78d1f4;
+      --layer2: #a6b1c9;
+      --layer1: #44d88d;
+      --stroke: #2e4369;}
+    

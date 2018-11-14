@@ -1,0 +1,105 @@
+<div class="page-carousel">
+	<div class="filter"></div>
+	<div id="carouseIndicators" class="carousel slide" data-ride="carousel">
+		<ol class="carousel-indicators">
+			<li data-target="#carouseIndicators" data-slide-to="0" [class]="carousel['slide0']"></li>
+			<li data-target="#carouseIndicators" data-slide-to="1" [class]="carousel['slide1']"></li>
+			<li data-target="#carouseIndicators" data-slide-to="2" [class]="carousel['slide2']"></li>
+		</ol>
+		<div class="carousel-inner"  role="listbox">
+			<div [class]="carousel['carouselItem0']">
+				<div class="page-header" [style.background-image]="'url(' + data.images[0] + ')'">
+					<div class="filter"></div>
+					<div class="content-center">
+						<div class="container">
+							<div class="row">
+								<div class="col-md-6 text-left">
+									<h1 class="title">{{data.titles[0]}}</h1>
+									<h5>{{data.subTitles[0]}}</h5>
+									<br />
+									<div class="buttons">
+										<a href="#pablo" class="btn btn-danger btn-round  btn-lg">
+											Read More
+										</a>
+										<a href="#pablo" class="btn btn-neutral btn-link btn-just-icon">
+											<i class="fa fa-twitter"></i>
+										</a>
+										<a href="#pablo" class="btn btn-neutral btn-link btn-just-icon">
+											<i class="fa fa-facebook-square"></i>
+										</a>
+										<a href="#pablo" class="btn btn-neutral btn-link btn-just-icon">
+											<i class="fa fa-get-pocket"></i>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div [class]="carousel['carouselItem1']">
+				<div class="page-header" [style.background-image]="'url(' + data.images[1] + ')'">
+					<div class="filter"></div>
+					<div class="content-center">
+						<div class="container">
+							<div class="row">
+								<div class="col-md-8 ml-auto mr-auto text-center">
+									<h1 class="title">{{data.titles[1]}}</h1>
+									<h5>{{data.subTitles[1]}}</h5>
+									<br />
+									<h6>Connect with us:</h6>
+									<div class="buttons">
+										<a href="#pablo" class="btn btn-neutral btn-link btn-just-icon">
+											<i class="fa fa-twitter"></i>
+										</a>
+										<a href="#pablo" class="btn btn-neutral btn-link btn-just-icon">
+											<i class="fa fa-facebook-square"></i>
+										</a>
+										<a href="#pablo" class="btn btn-neutral btn-link btn-just-icon">
+											<i class="fa fa-instagram"></i>
+										</a>
+										<a href="#pablo" class="btn btn-neutral btn-link btn-just-icon">
+											<i class="fa fa-google-plus"></i>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div [class]="carousel['carouselItem2']">
+				<div class="page-header" [style.background-image]="'url(' + data.images[2] + ')'">
+					<div class="filter"></div>
+					<div class="content-center">
+						<div class="container">
+							<div class="row">
+								<div class="col-md-7 ml-auto text-right">
+									<h1 class="title">{{data.titles[2]}}</h1>
+									<h5>{{data.subTitles[2]}}</h5>
+									<br />
+									<div class="buttons">
+										<a href="#pablo" class="btn btn-neutral btn-link btn-lg">
+											<i class="fa fa-share-alt"></i> Share Offer
+										</a>
+										<a href="#pablo" class="btn btn-success btn-round btn-lg">
+											<i class="fa fa-shopping-cart"></i> Shop Now
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<a class="left carousel-control carousel-control-prev" href="#carouseIndicators" role="button" data-slide="prev" (click)="prevClick()">
+			<span class="fa fa-angle-left"></span>
+			<span class="sr-only">Previous</span>
+		</a>
+		<a class="right carousel-control carousel-control-next" href="#carouseIndicators" role="button" data-slide="next" (click)="nextClick()">
+			<span class="fa fa-angle-right"></span>
+			<span class="sr-only">Next</span>
+		</a>
+	</div>
+</div>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Shopping Trolley</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer6"
+  fill="#4db9e8" d="M37 21.5l7-17 7 3-6 16h-7l-1-2z"></path>
+  <path data-name="layer5" fill="#f27e7c" d="M19 23.5l10-10 10 10"></path>
+  <path data-name="layer4" fill="#a7c5f2" d="M22 47.5h32l8-24H16.008L22 47.5z"></path>
+  <circle data-name="layer3" cx="24" cy="55.5" r="4" fill="#7b8baf"></circle>
+  <circle data-name="layer3" cx="50" cy="55.5" r="4" fill="#7b8baf"></circle>
+  <path data-name="layer2" fill="#92d5b5" d="M45 23.5v-10h12v10"></path>
+  <path data-name="layer1" d="M3 8.5h9.219l3.75 15h2.062L13.97 7.258A1 1 0 0 0 13 6.5H3a1 1 0 0 0 0 2z"
+  fill="#8fa9d8"></path>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Deposit Box</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer1"
+  d="M10 63.006a2 2 0 0 1-2-2v-4a2 2 0 1 1 4 0v4a2 2 0 0 1-2 2zm44 0a2 2 0 0 1-2-2v-4a2 2 0 1 1 4 0v4a2 2 0 0 1-2 2z"
+  fill="#7b8baf"></path>
+  <path data-name="layer4" d="M62 55a3 3 0 0 1-3 3H5a3 3 0 0 1-3-3V5a3 3 0 0 1 3-3h54a3 3 0 0 1 3 3z"
+  fill="#8fa9d8"></path>
+  <path data-name="layer4" d="M62 55a3 3 0 0 1-3 3H5a3 3 0 0 1-3-3V5a3 3 0 0 1 3-3h54a3 3 0 0 1 3 3z"
+  fill="#8fa9d8"></path>
+  <path data-name="opacity" d="M10.587 10.6L2 19.183V55a3 3 0 0 0 3 3h3v3a2 2 0 1 0 4 0v-3h32.828l8.807-8.807z"
+  fill="#000064" opacity=".15"></path>
+  <path data-name="layer3" d="M52 10.008H12a2.005 2.005 0 0 0-2 2v6H8a2 2 0 1 0 0 4h2v16H8a2 2 0 1 0 0 4h2v6a2.006 2.006 0 0 0 2 2h40a2.005 2.005 0 0 0 2-2v-36a2.005 2.005 0 0 0-2-2z"
+  fill="#a7c5f2"></path>
+  <circle data-name="layer2" cx="40" cy="24" r="6" fill="#c8daf8"></circle>
+  <path data-name="opacity" d="M34 24a5.967 5.967 0 0 1 .534-2.465 6 6 0 1 0 7.932 7.931A5.993 5.993 0 0 1 34 24z"
+  fill="#000064" opacity=".15"></path>
+  <path data-name="layer1" d="M44 38h-8a1 1 0 0 1 0-2h8a1 1 0 0 1 0 2zm0 5h-8a1 1 0 0 1 0-2h8a1 1 0 0 1 0 2z"
+  fill="#7b8baf"></path>
+</svg>

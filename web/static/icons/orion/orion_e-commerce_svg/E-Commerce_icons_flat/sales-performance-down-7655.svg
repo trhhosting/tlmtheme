@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Sales Performance Down</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer6"
+  fill="#7c97c5" d="M7 22.986h8V61H7z"></path>
+  <path data-name="layer5" fill="#a2b8df" d="M21 32.991h8V61h-8z"></path>
+  <path data-name="layer4" fill="#afc1db" d="M35 42.996h8V61h-8z"></path>
+  <path data-name="layer3" fill="#d2ddf0" d="M49 53h8v8h-8z"></path>
+  <path data-name="layer2" d="M59 62H5a1 1 0 0 1 0-2h54a1 1 0 0 1 0 2z"
+  fill="#7b8baf"></path>
+  <path data-name="layer1" d="M57.82 36.565a.992.992 0 0 0 .145-.328.972.972 0 0 0 .015-.155 1.024 1.024 0 0 0 .016-.17l-.934-10a1 1 0 1 0-1.991.185l.73 7.822L9.582 1.184a1 1 0 1 0-1.156 1.632l46.112 32.662-7.732 1.549a1 1 0 0 0 .2 1.98.975.975 0 0 0 .2-.02l10-2a.948.948 0 0 0 .213-.086c.02-.009.039-.013.058-.023a.986.986 0 0 0 .348-.3z"
+  fill="#f27e7c"></path>
+</svg>

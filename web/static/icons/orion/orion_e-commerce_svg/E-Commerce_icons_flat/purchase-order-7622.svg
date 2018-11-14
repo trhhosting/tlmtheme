@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Purchase Order</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  d="M48 8v44H34a10 10 0 0 1-20 0v-4l-.007-40a5.976 5.976 0 0 0-5.925-6h33.923A6.009 6.009 0 0 1 48 8z"
+  fill="#cce3ff"></path>
+  <path data-name="layer2" d="M13.991 8a6 6 0 0 0-6-6H8a6 6 0 0 0-6 6v-.021h11.993z"
+  fill="#cce3ff"></path>
+  <path data-name="opacity" d="M13.991 8a6 6 0 0 0-6-6H8a6 6 0 0 0-6 6v-.021h11.993z"
+  fill="#000064" opacity=".1"></path>
+  <path data-name="layer2" d="M24 62a10 10 0 0 0 10-10h28a10 10 0 0 1-10 10H23.991"
+  fill="#cce3ff"></path>
+  <path data-name="opacity" d="M24 62a10 10 0 0 0 10-10h28a10 10 0 0 1-10 10H23.991"
+  fill="#fff" opacity=".5"></path>
+  <path data-name="layer1" d="M39.991 15h-16a1 1 0 0 1 0-2h16a1 1 0 0 1 0 2zm0 16h-16a1 1 0 0 1 0-2h16a1 1 0 0 1 0 2zm-4-8h-12a1 1 0 0 1 0-2h12a1 1 0 0 1 0 2zm0 16h-12a1 1 0 0 1 0-2h12a1 1 0 0 1 0 2z"
+  fill="#7b8baf"></path>
+</svg>

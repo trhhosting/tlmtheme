@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Bank Notes</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer1"
+  fill="#92d5b5" d="M3 8h58v32H3zm0 32h58v8H3z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".1" d="M3 40h58v8H3z"></path>
+  <path data-name="layer1" fill="#92d5b5" d="M3 48h58v8H3z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".2" d="M3 48h58v8H3z"></path>
+  <circle data-name="opacity" cx="31.998" cy="23.998" r="8" fill="#000064"
+  opacity=".1"></circle>
+  <path data-name="opacity" d="M16 17h-4a1 1 0 0 1 0-2h4a1 1 0 0 1 0 2zm36 16h-4a1 1 0 0 1 0-2h4a1 1 0 0 1 0 2z"
+  fill="#000064" opacity=".1"></path>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Bills</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer1"
+  fill="#92d5b5" d="M18 26h44v28H18z"></path>
+  <circle data-name="opacity" cx="39.998" cy="39.996" r="6" fill="#000064"
+  opacity=".1"></circle>
+  <path data-name="layer1" fill="#92d5b5" d="M18 46h-8V18h44v8H18v20z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".1" d="M18 46h-8V18h44v8H18v20z"></path>
+  <path data-name="layer1" fill="#92d5b5" d="M10 38H2V10h44v8H10v20z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".2" d="M10 38H2V10h44v8H10v20z"></path>
+  <path data-name="opacity" d="M53.992 35h-2a1 1 0 0 1 0-2h2a1 1 0 0 1 0 2zM28 47h-2a1 1 0 1 1 0-2h2a1 1 0 1 1 0 2zm-18-1.004h8V26l-8 8v11.996zm-8-8h8V18l-8 8v11.996z"
+  fill="#000064" opacity=".1"></path>
+</svg>

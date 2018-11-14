@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Label</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  d="M52.535 11.469L31.4 10.065 1.837 39.631l22.532 22.532L53.937 32.6zm-8.451 11.264a1.991 1.991 0 1 1 0-2.816 1.993 1.993 0 0 1 0 2.816z"
+  fill="#a0dff7"></path>
+  <path data-name="layer1" d="M40.878 10.695l2.1.139a11.933 11.933 0 0 1 2.487-3.613c3.9-3.9 9.609-4.534 12.728-1.415s2.485 8.83-1.414 12.729-9.609 4.533-12.728 1.414a1 1 0 0 0-1.414 1.414c3.9 3.9 10.878 3.265 15.557-1.414s5.312-11.657 1.413-15.556-10.878-3.265-15.556 1.414a13.871 13.871 0 0 0-3.068 4.578c-.042.101-.065.207-.105.31z"
+  fill="#7c97c5"></path>
+  <path data-name="opacity" d="M41.235 22.694a1.987 1.987 0 0 1 2.809-2.809l8.421-8.421L31.4 10.065 1.837 39.631l11.23 11.23z"
+  fill="#000064" opacity=".15"></path>
+</svg>

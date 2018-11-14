@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Box</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer1"
+  fill="#c69267" d="M2 62V20L14 2h36.004L62 20v42H2z"></path>
+  <path data-name="opacity" fill="#fff" opacity=".15" d="M14 2L2 20h60L50.004 2H14z"></path>
+  <path data-name="opacity" d="M46 34a4 4 0 0 1-4 4H22a4 4 0 0 1-4-4 4 4 0 0 1 4-4h20a4 4 0 0 1 4 4z"
+  fill="#000064" opacity=".15"></path>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Bill</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer1"
+  fill="#92d5b5" d="M2 16h60v31.998H2z"></path>
+  <circle data-name="opacity" cx="32" cy="32" r="8" fill="#000064"
+  opacity=".1"></circle>
+  <path data-name="opacity" d="M16 31h-4a1 1 0 0 0 0 2h4a1 1 0 1 0 0-2zm36 0h-4a1 1 0 0 0 0 2h4a1 1 0 1 0 0-2z"
+  fill="#000064" opacity=".1"></path>
+  <path data-name="opacity" d="M2 16v32h60V16zm53.09 30H8.911A6 6 0 0 0 4 41.088V22.912A6 6 0 0 0 8.91 18h46.179A6 6 0 0 0 60 22.91v18.176A6 6 0 0 0 55.09 46z"
+  fill="#000064" opacity=".1"></path>
+</svg>

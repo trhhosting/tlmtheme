@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Error Cart</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer5"
+  d="M13 26.3a1 1 0 0 1-.969-.76L8.209 10.095H3a1 1 0 1 1 0-2h5.991a1 1 0 0 1 .972.761l4.008 16.208a1 1 0 0 1-.729 1.21A1.029 1.029 0 0 1 13 26.3z"
+  fill="#8fa9d8"></path>
+  <path data-name="layer4" fill="#c3d6f9" d="M58.002 25.093L12 25.094l5.993 24.001h32l8.009-24.002z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".1" d="M58.002 25.093l-23.836.001-17.737 17.737 1.564 6.264h32l8.009-24.002z"></path>
+  <circle data-name="layer3" cx="19.993" cy="57.093" r="4" fill="#7b8baf"></circle>
+  <circle data-name="layer3" cx="45.992" cy="57.093" r="4" fill="#7b8baf"></circle>
+  <path data-name="layer2" fill="#fe6363" d="M30 32.907l16-30 16 30H30z"></path>
+  <path data-name="layer1" d="M46 23.907a1 1 0 0 1-1-1v-7a1 1 0 0 1 2 0v7a1 1 0 0 1-1 1m0 4.5a1.5 1.5 0 1 1 1.5-1.5 1.5 1.5 0 0 1-1.5 1.5"
+  fill="#fff"></path>
+</svg>

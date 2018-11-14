@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Coins</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer4"
+  fill="#d3a475" d="M10 32h8v10h-8z"></path>
+  <path data-name="layer3" fill="#e4b57f" d="M18.001 32H36v9.999H18.001z"></path>
+  <path data-name="layer4" fill="#d3a475" d="M6 41.931h8v10H6z"></path>
+  <path data-name="layer3" fill="#e4b57f" d="M14 41.931h18v9.999H14z"></path>
+  <path data-name="layer4" fill="#d3a475" d="M10 51.966h8v10h-8z"></path>
+  <path data-name="layer3" fill="#e4b57f" d="M18 51.966h18v9.999H18zM32 2.035h8v10h-8z"></path>
+  <path data-name="layer2" fill="#f7c98a" d="M40 2.035h17.999v9.998H40zm-12 9.931h8v10h-8z"></path>
+  <path data-name="layer1" fill="#ffdda4" d="M36 11.966h18v9.999H36z"></path>
+  <path data-name="layer3" fill="#e4b57f" d="M32 22h8v10h-8z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".1" d="M27.932 32L6 51.931h4.084l-.084.035v10h8v-.006.005h18v-9.999l-4-.035v-9.933h4V32h-8.068z"></path>
+  <path data-name="layer2" fill="#f7c98a" d="M40 22h18v9.998H40zm-12 9.931h8v10h-8z"></path>
+  <path data-name="layer3" fill="#e4b57f" d="M32 41.965h8v10h-8z"></path>
+  <path data-name="layer1" fill="#ffdda4" d="M36 31.931h18v9.999H36z"></path>
+  <path data-name="layer2" fill="#f7c98a" d="M40 41.966h18v9.999H40zm-12 9.931h8v10h-8z"></path>
+  <path data-name="layer1" fill="#ffdda4" d="M36 51.897h18v9.999H36z"></path>
+</svg>

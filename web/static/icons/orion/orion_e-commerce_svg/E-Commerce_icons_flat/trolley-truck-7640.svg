@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Trolley Truck</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer5"
+  fill="#d8a16f" d="M22.001 18.503h34v32h-34z"></path>
+  <path data-name="layer4" d="M48 61.5a1 1 0 0 1-.707-.294L43.587 57.5H22a1 1 0 1 1 0-2h22a1 1 0 0 1 .707.294l4 4A1 1 0 0 1 48 61.5zm-32-12a1 1 0 0 1-1-1v-45h-5a1 1 0 0 1 0-2h6a1 1 0 0 1 1 1v46a1 1 0 0 1-1 1z"
+  fill="#7b8baf"></path>
+  <circle data-name="layer3" cx="14.999" cy="55.502" r="7" fill="#8fa9d8"></circle>
+  <circle data-name="layer2" cx="14.993" cy="55.448" r="1.5" fill="#d2ddf0"></circle>
+  <path data-name="opacity" fill="#000064" opacity=".15" d="M38.498 18.503l-16.496-.001-.001 32.001H26l18.001-18.001-5.503-13.999z"></path>
+  <path data-name="layer1" fill="#ffdda4" d="M44.001 18.502v14h-10l.001-14"></path>
+</svg>

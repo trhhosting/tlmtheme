@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Shopping Bag</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  fill="#f27e7c" d="M56 62.5H8l2-44 44-.001L56 62.5z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".1" d="M42.302 18.5H10l-2 44 34.707-35.293-.405-8.707z"></path>
+  <path data-name="layer1" d="M42 27.5a1 1 0 0 1-1-1v-14a9 9 0 1 0-18 0v14a1 1 0 1 1-2 0v-14a11 11 0 0 1 22 0v14a1 1 0 0 1-1 1z"
+  fill="#e6edf7"></path>
+</svg>

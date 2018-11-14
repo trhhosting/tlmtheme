@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Airport Trolley</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <circle data-name="layer2"
+  cx="22" cy="57" r="4" fill="#a6b1c9"></circle>
+  <circle data-name="layer2" cx="48" cy="57" r="4" fill="#a6b1c9"></circle>
+  <rect data-name="layer1" x="22" y="11" width="40" height="26"
+  rx="3" ry="3" fill="#c98c73"></rect>
+  <path data-name="opacity" fill="#000064" opacity=".15" d="M22 23h40v5H22z"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M2 9h6l8 36h42"></path>
+  <circle data-name="stroke" cx="22" cy="57" r="4" fill="none" stroke="#2e4369"
+  stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+  <circle data-name="stroke" cx="48" cy="57" r="4" fill="none"
+  stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+  <rect data-name="stroke" x="22" y="11" width="40" height="26"
+  rx="3" ry="3" fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></rect>
+  <path data-name="stroke" d="M36 11V5a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v6M22 23h40m-20-2v6"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></path>
+</svg>

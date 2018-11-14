@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Cash Register Till</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer3"
+  d="M40 19a1 1 0 0 1-1-1v-6a1 1 0 0 1 2 0v6a1 1 0 0 1-1 1z" fill="#7c97c5"></path>
+  <path data-name="layer1" d="M52 34V20a2 2 0 0 0-2-2H14a2 2 0 0 0-2 2v14L2 52v8h60v-8z"
+  fill="#c3d6f9"></path>
+  <path data-name="opacity" fill="#000064" opacity=".1" d="M2 52h60v8H2zm10-18V20a2 2 0 0 1 2-2h36a2 2 0 0 1 2 2v14"></path>
+  <path data-name="opacity" d="M44 27H20a1 1 0 0 1 0-2h24a1 1 0 0 1 0 2z"
+  fill="#000064" opacity=".1"></path>
+  <path d="M47 42H31a1 1 0 0 1 0-2h16a1 1 0 0 1 0 2zm4 6H31a1 1 0 0 1 0-2h20a1 1 0 0 1 0 2z"
+  fill="#000064" data-name="opacity" opacity=".15"></path>
+  <path data-name="layer2" d="M48 41H32a1 1 0 0 1 0-2h16a1 1 0 0 1 0 2zm4 6H32a1 1 0 0 1 0-2h20a1 1 0 0 1 0 2z"
+  fill="#e6edf7"></path>
+  <path data-name="layer1" fill="#c3d6f9" d="M32.002 3.998h16v8h-16z"></path>
+</svg>

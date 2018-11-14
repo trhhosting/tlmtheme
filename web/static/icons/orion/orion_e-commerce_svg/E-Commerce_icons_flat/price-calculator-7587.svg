@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Price Calculator</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer4"
+  d="M8 38v20a4 4 0 0 0 4 4h20V38zm24-24h24v24H32zM8 14h24v24H8z" fill="#8fa9d8"></path>
+  <path data-name="opacity" fill="#000064" opacity=".15" d="M8 14h24v24H8z"></path>
+  <path data-name="layer3" d="M56 6a4 4 0 0 0-4-4H12a4 4 0 0 0-4 4v8h48zM32 62h20a4 4 0 0 0 4-4V38H32z"
+  fill="#cce3ff"></path>
+  <path data-name="layer2" d="M48 49h-8a1 1 0 0 1 0-2h8a1 1 0 0 1 0 2zm0 6h-8a1 1 0 0 1 0-2h8a1 1 0 0 1 0 2z"
+  fill="#7b8baf"></path>
+  <path data-name="layer1" d="M26 25h-5v-5a1 1 0 0 0-2 0v5h-5a1 1 0 0 0 0 2h5v5a1 1 0 0 0 2 0v-5h5a1 1 0 0 0 0-2zm24 0H38a1 1 0 0 0 0 2h12a1 1 0 0 0 0-2zM24.707 45.291a1 1 0 0 0-1.414 0L20 48.583l-3.293-3.293a1 1 0 0 0-1.414 1.416L18.585 50l-3.292 3.29a1 1 0 1 0 1.414 1.41L20 51.411l3.293 3.289a1 1 0 0 0 1.414-1.413L21.415 50l3.292-3.292a1 1 0 0 0 0-1.417z"
+  fill="#fff"></path>
+</svg>

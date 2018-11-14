@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Call Store</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer4"
+  d="M13 26.208a1 1 0 0 1-.97-.759L8.208 10H3a1 1 0 0 1 0-2h5.99a1 1 0 0 1 .972.761l4.007 16.208a1 1 0 0 1-.729 1.21 1.061 1.061 0 0 1-.24.029z"
+  fill="#8fa9d8"></path>
+  <circle data-name="layer3" cx="19.991" cy="56.999" r="4.001" fill="#7b8baf"></circle>
+  <circle data-name="layer3" cx="45.991" cy="56.999" r="4.001"
+  fill="#7b8baf"></circle>
+  <path data-name="layer2" fill="#c3d6f9" d="M58 24.999L11.999 25l5.992 24.001h32L58 24.999z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".1" d="M17.991 49.001h32L58 24.999 40.757 25 17.991 49.001z"></path>
+  <path data-name="layer1" d="M55.252 22.115a2.417 2.417 0 0 0-3.266.638c-1.176 1.453-1.66 3.408-7.154-2.086s-4.039-6.481-2.588-7.655a2.419 2.419 0 0 0 .641-3.266c-.4-.6-2.957-4.544-3.406-5.2s-1.055-1.723-2.461-1.52A7.171 7.171 0 0 0 32 9.781c0 4.492 3.543 10 8.379 14.84S50.725 33 55.217 33a7.171 7.171 0 0 0 6.758-5.02c.2-1.4-.865-2.011-1.522-2.46s-4.596-3.008-5.201-3.405z"
+  fill="#ed5451"></path>
+</svg>

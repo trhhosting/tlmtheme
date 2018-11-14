@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Cart</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <circle data-name="layer3"
+  cx="23.996" cy="53.989" r="4" fill="#7b8baf"></circle>
+  <circle data-name="layer3" cx="48.996" cy="53.989" r="4" fill="#7b8baf"></circle>
+  <path data-name="layer2" d="M17 24.014a1 1 0 0 1-.969-.757L12.223 8.013H3a1 1 0 0 1 0-2h10a1 1 0 0 1 .97.758l4 16a1 1 0 0 1-.97 1.243z"
+  fill="#71c3f3"></path>
+  <path data-name="layer1" fill="#78d1f4" d="M21.996 47.013h32l8-24H16.004l5.992 24z"></path>
+</svg>

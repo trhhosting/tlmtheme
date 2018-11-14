@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Open 24 Hours</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer4"
+  fill="#a7c5f2" d="M38 54H12.018L6.067 23.999h51.934L55.739 35.31 51 54H38z"></path>
+  <path data-name="layer3" d="M8.066 25a1 1 0 0 1-.744-1.668l17.934-20a1 1 0 0 1 1.489 1.335l-17.934 20a1 1 0 0 1-.745.333zM56 25a1 1 0 0 1-.744-.331l-18-20a1 1 0 1 1 1.486-1.337l18 20A1 1 0 0 1 56 25z"
+  fill="#7b8baf"></path>
+  <path data-name="layer2" d="M60 25H4a1 1 0 0 1 0-2h56a1 1 0 1 1 0 2z"
+  fill="#c3d6f9"></path>
+  <path data-name="layer1" d="M59.967 52h-3v-5a1 1 0 0 0-2 0v5h-7.48l5.4-12.606a1 1 0 0 0-1.838-.787l-6 14A1 1 0 0 0 45.971 54h9v5a1 1 0 0 0 2 0v-5h3a1 1 0 1 0 0-2zm-17.996 6h-9.84l7.249-8.538a7 7 0 0 0-10.08-9.655 1 1 0 1 0 1.336 1.487 5 5 0 0 1 7.206 6.887l-8.634 10.172A1 1 0 0 0 29.971 60h12a1 1 0 0 0 0-2z"
+  fill="#556685"></path>
+</svg>

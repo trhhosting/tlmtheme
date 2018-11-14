@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Woman Handbag</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer5"
+  d="M49.993 27a1 1 0 0 1-1-1v-6a17 17 0 0 0-34 0v6a1 1 0 0 1-2 0v-6a19 19 0 0 1 38 0v6a1 1 0 0 1-1 1z"
+  fill="#cd7b5a"></path>
+  <path data-name="layer4" d="M6.63 34.458L9.993 58c.375 2 1.791 4 4 4h36c2.209 0 3.656-2 4-4l3.365-23.56"
+  fill="#d6958a"></path>
+  <path data-name="layer3" d="M53.993 26h-44a4.011 4.011 0 0 0-4 4l.637 4.458 19.715 13.9a10.582 10.582 0 0 0 11.313 0l19.7-13.922.635-4.436c.281-2-1.793-4-4-4z"
+  fill="#f7c98a"></path>
+  <path data-name="layer2" d="M26.345 48.362L6.63 34.458 9.993 58c.375 2 1.791 4 4 4h36c2.209 0 3.656-2 4-4l3.365-23.56-19.7 13.922a10.582 10.582 0 0 1-11.313 0z"
+  fill="#de9372"></path>
+  <path data-name="layer1" d="M31.985 43a1 1 0 0 1-1-1v-4a1 1 0 0 1 2 0v4a1 1 0 0 1-1 1z"
+  fill="#ffdda4"></path>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Calculator</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <rect data-name="layer1"
+  x="10" y="2" width="44" height="60" rx="2" ry="2" fill="#7b8baf"></rect>
+  <path data-name="layer4" fill="#8adfff" d="M15.998 8H48v14H15.998z"></path>
+  <path data-name="opacity" fill="#fff" opacity=".4" d="M24 8l14 14h10V8H24z"></path>
+  <path d="M20.5 52a2.5 2.5 0 1 0 2.5 2.5 2.5 2.5 0 0 0-2.5-2.5zM31 52a2.5 2.5 0 1 0 2.5 2.5A2.5 2.5 0 0 0 31 52zm10.5 0a2.5 2.5 0 1 0 2.5 2.5 2.5 2.5 0 0 0-2.5-2.5zm-21-11a2.5 2.5 0 1 0 2.5 2.5 2.5 2.5 0 0 0-2.5-2.5zM31 41a2.5 2.5 0 1 0 2.5 2.5A2.5 2.5 0 0 0 31 41zm10.5 0a2.5 2.5 0 1 0 2.5 2.5 2.5 2.5 0 0 0-2.5-2.5zm-21-11.008a2.5 2.5 0 1 0 2.5 2.5 2.5 2.5 0 0 0-2.5-2.5zm10.5 0a2.5 2.5 0 1 0 2.5 2.5 2.5 2.5 0 0 0-2.5-2.5zm10.5 5a2.5 2.5 0 1 0-2.5-2.5 2.5 2.5 0 0 0 2.5 2.5z"
+  fill="#000064" opacity=".15"></path>
+  <path data-name="layer2" d="M21.5 51a2.5 2.5 0 1 0 2.5 2.5 2.5 2.5 0 0 0-2.5-2.5zM32 51a2.5 2.5 0 1 0 2.5 2.5A2.5 2.5 0 0 0 32 51zm10.5 0a2.5 2.5 0 1 0 2.5 2.5 2.5 2.5 0 0 0-2.5-2.5zm-21-11a2.5 2.5 0 1 0 2.5 2.5 2.5 2.5 0 0 0-2.5-2.5zM32 40a2.5 2.5 0 1 0 2.5 2.5A2.5 2.5 0 0 0 32 40zm10.5 0a2.5 2.5 0 1 0 2.5 2.5 2.5 2.5 0 0 0-2.5-2.5zm-21-11.008a2.5 2.5 0 1 0 2.5 2.5 2.5 2.5 0 0 0-2.5-2.5zm10.5 0a2.5 2.5 0 1 0 2.5 2.5 2.5 2.5 0 0 0-2.5-2.5zm10.5 5a2.5 2.5 0 1 0-2.5-2.5 2.5 2.5 0 0 0 2.5 2.5z"
+  fill="#8fa9d8"></path>
+  <path data-name="layer1" d="M42 17a1 1 0 0 1-1-1v-4a1 1 0 0 1 2 0v4a1 1 0 0 1-1 1z"
+  fill="#7b8baf"></path>
+</svg>

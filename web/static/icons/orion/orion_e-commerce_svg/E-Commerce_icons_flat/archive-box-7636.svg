@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Archive Box</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  fill="#c69267" d="M58.019 18v40h-52V18"></path>
+  <path data-name="layer1" fill="#d8a16f" d="M3 6h58v12H3z"></path>
+  <path data-name="opacity" d="M44 31H20a1 1 0 1 1 0-2h24a1 1 0 0 1 0 2z"
+  fill="#000064" opacity=".15"></path>
+  <path data-name="opacity" fill="#000064" opacity=".15" d="M58.019 18h-52v40h12l40-40z"></path>
+</svg>

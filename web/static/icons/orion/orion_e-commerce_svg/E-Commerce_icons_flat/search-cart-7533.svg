@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Search Cart</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer5"
+  fill="#a7c5f2" d="M36.999 52H11.018L5.067 21.999h51.934L54.739 33.31 49.999 52h-13z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".1" d="M36.999 52h11.159l1.213-1.214-12.348-12.348L23.461 52h13.538z"></path>
+  <path data-name="layer1" d="M7.066 23a1 1 0 0 1-.744-1.669l17.934-20a1 1 0 0 1 1.488 1.336l-17.934 20a1 1 0 0 1-.744.333zM55 23a.994.994 0 0 1-.744-.332l-18-20a1 1 0 0 1 1.486-1.337l18 20A1 1 0 0 1 55 23z"
+  fill="#7b8baf"></path>
+  <path data-name="layer4" d="M59 23H3a1 1 0 0 1 0-2h56a1 1 0 1 1 0 2z"
+  fill="#c3d6f9"></path>
+  <circle data-name="layer3" cx="44.999" cy="46" r="10" fill="#8adfff"></circle>
+  <path data-name="layer2" d="M61 63a1 1 0 0 1-.707-.294l-8.917-8.929a1 1 0 1 1 1.416-1.413l8.917 8.928A1 1 0 0 1 61 63z"
+  fill="#6a7b9b"></path>
+  <path data-name="layer1" d="M45 57.011a11 11 0 1 1 11-11 11.012 11.012 0 0 1-11 11zm0-20a9 9 0 1 0 9 9 9.01 9.01 0 0 0-9-9z"
+  fill="#7b8baf"></path>
+</svg>

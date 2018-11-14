@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Statistics</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer5"
+  fill="#7c97c5" d="M49 11h8v42h-8z"></path>
+  <path data-name="layer4" fill="#a2b8df" d="M35 21.004h8V53h-8z"></path>
+  <path data-name="layer3" fill="#afc1db" d="M21 31.01h8V53h-8z"></path>
+  <path data-name="layer2" fill="#d2ddf0" d="M7 41.014h8V53H7z"></path>
+  <path data-name="layer1" d="M60 54H4a1 1 0 0 1 0-2h56a1 1 0 0 1 0 2z"
+  fill="#7b8baf"></path>
+</svg>

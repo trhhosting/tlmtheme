@@ -1,0 +1,53 @@
+<!--     *********     HEADER 2      *********      -->
+<div *ngFor="let c of data">
+	<nav class="navbar navbar-expand-lg navbar-transparent navbar-absolute">
+		<div class="container">
+			<a class="navbar-brand mb-0" [href]="c.menus[0].menuLink">{{c.menus[0].menuName}}</a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-bar"></span>
+				<span class="navbar-toggler-bar"></span>
+				<span class="navbar-toggler-bar"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarSupportedContent1">
+				<ul class="navbar-nav ml-auto">
+					<a [href]="c.menus[1].menuLink" class="btn btn-link btn-neutral">{{c.menus[1].menuName}}</a>
+					<a [href]="c.menus[2].menuLink" class="btn btn-link btn-neutral">{{c.menus[2].menuName}}</a>
+					<a [href]="c.menus[3].menuLink" class="btn btn-link btn-neutral">{{c.menus[3].menuName}}</a>
+				</ul>
+			</div>
+		</div>
+	</nav>
+	<div class="page-header" [style.background-image]="'url('+ c.photo +')'">
+		<div class="filter"></div>
+		<div class="content-center">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 ml-auto mr-auto text-center">
+						<h1 class="title"> {{c.title}}</h1>
+						<h5 class="description">{{c.subTitle}}</h5>
+						<br />
+					</div>
+					<div class="col-md-10 ml-auto mr-auto">
+						<div class="card card-raised card-form-horizontal no-transition">
+							<div class="card-body">
+								<form method="" action="">
+									<div class="row">
+										<div *ngFor="let cf of c.searchBar" class="col-md-3">
+											<div class="form-group">
+												<input [type]="cf.fields['type']" [value]="cf.fields['value']" [placeholder]="cf.fields['placeHolder']" [class]="cf.fields['class']" />
+											</div>
+										</div>
+										<div class="col-md-3">
+											<button type="button" class="btn btn-danger btn-block"><i class="nc-icon nc-zoom-split"></i> &nbsp; {{c.callToAction['buttonText']}}</button>
+										</div>
+									</div>
+								</form>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--     *********    END HEADER 2      *********      -->

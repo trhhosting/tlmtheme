@@ -1,0 +1,66 @@
+<!--     *********     FEATURES 3      *********      -->
+<div class="features-3">
+	<div *ngFor="let c of data" class="container">
+		<div class="row">
+			<div class="col-md-6">
+				<div class="row">
+					<div class="container">
+						<h2 class="title">{{c.title}}</h2>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-6">
+						<div class="info info-horizontal">
+							<div class="icon icon-success">
+								<i class="nc-icon nc-layout-11"></i>
+							</div>
+							<div class="description">
+								<h4 class="info-title">{{c.card1.title}}</h4>
+								<p>{{c.card1.subTitle}}</p>
+								<a [href]="c.card1.content['buttonLink']" class="btn btn-link">{{c.card1.content['buttonText']}}</a>
+							</div>
+						</div>
+						<div class="info info-horizontal">
+							<div class="icon icon-warning">
+								<i class="nc-icon nc-palette"></i>
+							</div>
+							<div class="description">
+								<h4 class="info-title">{{c.card2.title}}</h4>
+								<p>{{c.card2.subTitle}}</p>
+								<a [href]="c.card2.content['buttonLink']" class="btn btn-link">{{c.card3.content['buttonText']}}</a>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="info info-horizontal">
+							<div class="icon icon-danger">
+								<i class="nc-icon nc-touch-id"></i>
+							</div>
+							<div class="description">
+								<h4 class="info-title">{{c.card3.title}}</h4>
+								<p>{{c.card3.subTitle}}</p>
+								<a [href]="c.card3.content['buttonLink']" class="btn btn-link">{{c.card3.content['buttonText']}}</a>
+							</div>
+						</div>
+						<div class="info info-horizontal">
+							<div class="icon icon-primary">
+								<i class="nc-icon nc-delivery-fast"></i>
+							</div>
+							<div class="description">
+								<h4 class="info-title">{{c.card4.title}}</h4>
+								<p>{{c.card4.subTitle}}</p>
+								<a [href]="c.card4.content['buttonLink']" class="btn btn-link">{{c.card4.content['buttonText']}}</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-5 ml-auto">
+				<div class="iphone-container">
+					<img [src]="c.photo" />
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--     *********    END FEATURES 3      *********      -->

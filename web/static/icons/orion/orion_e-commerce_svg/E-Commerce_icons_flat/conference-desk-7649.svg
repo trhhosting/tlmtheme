@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Conference Desk</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer1"
+  d="M40.788 21.015a1 1 0 0 1-1-1V8.692l-3.454-1.753a1 1 0 1 1 .905-1.783l4 2.031a1 1 0 0 1 .547.892v11.936a1 1 0 0 1-.998 1z"
+  fill="#8fa9d8"></path>
+  <path data-name="opacity" d="M40.788 21.015a1 1 0 0 1-1-1V8.692l-3.454-1.753a1 1 0 1 1 .905-1.783l4 2.031a1 1 0 0 1 .547.892v11.936a1 1 0 0 1-.998 1z"
+  fill="#000064" opacity=".15"></path>
+  <path data-name="layer4" d="M36.783 8.015v-4a2 2 0 0 0-2-2h-8a2 2 0 0 0-2 2v4z"
+  fill="#f27e7c"></path>
+  <path data-name="layer3" fill="#ffdda4" d="M56.794 42.018l-11.003-24h-32.01l-11 24h54.013z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".1" d="M2.781 42.018h32.378l8.002-8.003-22.006-10L2.781 42.018z"></path>
+  <path data-name="layer2" fill="#e9f4ff" d="M39.16 24.015H21.155l-4.751 10h26.757l-4.001-10z"></path>
+  <path data-name="layer1" d="M29.783 62.018a1 1 0 0 1-1-1v-19a1 1 0 0 1 2 0v19a1 1 0 0 1-1 1z"
+  fill="#8fa9d8"></path>
+  <path data-name="opacity" d="M29.783 62.018a1 1 0 0 1-1-1v-19a1 1 0 0 1 2 0v19a1 1 0 0 1-1 1z"
+  fill="#000064" opacity=".15"></path>
+  <path data-name="layer1" d="M39.785 62.018h-20a1 1 0 0 1 0-2h20a1 1 0 0 1 0 2zm18.015-19H1.781a1 1 0 1 1 0-2H57.8a1 1 0 1 1 0 2z"
+  fill="#8fa9d8"></path>
+</svg>

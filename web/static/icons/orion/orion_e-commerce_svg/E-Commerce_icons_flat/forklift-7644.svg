@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Forklift</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer5"
+  d="M23 13H8v17.928l.11.072H20l7.983 9.017A7.989 7.989 0 0 1 40 46.927a8.1 8.1 0 0 1-1.043 3.973l.09.095H44V32.927C44 11.593 23 13 23 13z"
+  fill="#d2ddf0"></path>
+  <circle data-name="layer4" cx="11" cy="49.927" r="5" fill="#8fa9d8"></circle>
+  <circle data-name="layer4" cx="32" cy="46.927" r="8" fill="#8fa9d8"></circle>
+  <path data-name="layer3" d="M28 40v.03L20 31H5a2.94 2.94 0 0 0-3 2.929V51h4.1a3.479 3.479 0 0 1-.1-1.036 5 5 0 1 1 10 .009A3.406 3.406 0 0 1 15.9 51h9.179A7.615 7.615 0 0 1 24 46.964 8.051 8.051 0 0 1 28 40z"
+  fill="#fc6"></path>
+  <path data-name="layer1" d="M53 43h-7.977a1 1 0 0 1 0-2H53a1 1 0 0 1 0 2z"
+  fill="#7b8baf"></path>
+  <path data-name="layer2" d="M45.024 43a1 1 0 0 1-.763-.354l-11.023-13a1 1 0 1 1 1.525-1.293l11.023 13A1 1 0 0 1 45.024 43z"
+  fill="#556685"></path>
+  <path data-name="layer1" d="M59 54H45.023a1 1 0 0 1-1-1V9a1 1 0 0 1 2 0v43H59a1 1 0 0 1 0 2z"
+  fill="#7b8baf"></path>
+</svg>

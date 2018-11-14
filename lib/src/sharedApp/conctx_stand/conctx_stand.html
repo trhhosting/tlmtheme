@@ -1,0 +1,32 @@
+<div class="page-header header-video">
+
+	<div class="filter filter-danger"></div>
+	<!-- We show the video image placeholder instead of the video for small devices  -->
+	<div class="video-image" [style.background-image]="'url(' + image + ')'">
+
+	</div>
+<!--
+	<video id="video-source" autoplay preload="auto" loop="loop" muted="muted" volume="0">
+		<source src="./static/video/Commune-Funnel_md.mp4" type="video/mp4"> Video not supported
+	</video>
+-->
+	<video class="video-background" [id]="video_id" height="auto" width="auto" autoplay loop muted volume="0"  [poster]="video_poster">
+		<source [src]="video_mp4" type="video/mp4">
+		<source [src]="video_webm" type="video/webm">
+		Video Not Supported
+	</video>
+
+	<div class="content-center">
+		<div class="container upper-container text-center">
+			<div class="video-text">
+				<h2>Make it</h2>
+				<h1 class="title-uppercase title-no-upper-margin">Stand out</h1>
+			</div>
+			<br />
+			<!--  We hide the play button on small devices -->
+			<button type="button" data-video="video-source" data-toggle="video" class="btn btn-lg btn-neutral">
+				<i class="fa fa-play"></i> Play Video
+			</button>
+		</div>
+	</div>
+</div>

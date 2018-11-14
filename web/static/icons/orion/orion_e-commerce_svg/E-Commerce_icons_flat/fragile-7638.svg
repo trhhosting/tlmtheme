@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Fragile</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer1"
+  d="M32 63a1 1 0 0 1-1-1V42a1 1 0 0 1 2 0v20a1 1 0 0 1-1 1z" fill="#d2ddf0"></path>
+  <path data-name="opacity" d="M32 63a1 1 0 0 1-1-1V42a1 1 0 0 1 2 0v20a1 1 0 0 1-1 1z"
+  fill="#000064" opacity=".15"></path>
+  <path data-name="layer1" d="M47.943 26.867a17.61 17.61 0 0 0-.287-2.252C46.387 16.628 42 2 42 2H22s-4.387 14.628-5.656 22.615a17.627 17.627 0 0 0-.287 2.252c-.035.414-.057.8-.057 1.133 0 8.836 7.162 14 16 14s16-5.164 16-14a13.4 13.4 0 0 0-.057-1.133z"
+  fill="#d2ddf0"></path>
+  <path data-name="layer2" d="M34.707 15.291l-3.559-3.56 1.8-5.28a1 1 0 0 0-.047-.758L31.111 2h-2.1a.976.976 0 0 0 .091.436l1.819 3.759-1.866 5.481a1 1 0 0 0 .24 1.03l3.563 3.563-3.8 11.414a1 1 0 0 0 .632 1.265A.983.983 0 0 0 30 29a1 1 0 0 0 .949-.684l4-12a1 1 0 0 0-.242-1.025z"
+  fill="#a2b8df"></path>
+  <path data-name="layer1" d="M40 63H24a1 1 0 1 1 0-2h16a1 1 0 0 1 0 2z"
+  fill="#d2ddf0"></path>
+</svg>

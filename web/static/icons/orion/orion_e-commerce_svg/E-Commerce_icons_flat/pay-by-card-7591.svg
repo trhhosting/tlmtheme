@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Pay by Card</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer3"
+  d="M14 2a2 2 0 0 0-2 2v38a2 2 0 0 0 2 2h15.843a11.771 11.771 0 0 1 .227-4.916l-8.619-8.621a4.959 4.959 0 0 1 7.013-7.012L30 24.986V2z"
+  fill="#c3d6f9"></path>
+  <path data-name="layer2" d="M40 4a2 2 0 0 0-2-2h-8v22.986l10 10z"
+  fill="#7b8baf"></path>
+  <path data-name="layer1" d="M48.692 28.68A5266.822 5266.822 0 0 0 40 20.038v14.948l-10-10-1.536-1.535a4.959 4.959 0 0 0-7.013 7.012l8.619 8.621A11.771 11.771 0 0 0 29.843 44h-7.905A19.951 19.951 0 0 0 25.2 55.507C28.111 60 27.936 61.286 27.936 62h24S52 48.616 52 40c0-5.752-.84-8.852-3.308-11.32z"
+  fill="#f3cfc9"></path>
+  <path data-name="opacity" d="M29.843 44h-7.905A19.951 19.951 0 0 0 25.2 55.507C28.111 60 27.936 61.286 27.936 62H36s-.063-5-.063-8c-5.176-3.666-6.094-10-6.094-10z"
+  fill="#211f5e" opacity=".15"></path>
+  <path data-name="opacity" d="M12 42a2 2 0 0 0 2 2h15.843a11.771 11.771 0 0 1 .227-4.916l-8.619-8.621a4.959 4.959 0 0 1 0-7.012L12 32.9z"
+  fill="#000064" opacity=".1"></path>
+</svg>

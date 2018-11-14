@@ -1,0 +1,81 @@
+@import "papers/variables";
+@import "papers/mixins";
+
+@import "papers/typography";
+
+// Core CSS
+@import "papers/misc";
+@import "papers/buttons";
+@import "papers/inputs";
+@import "papers/progress-bars";
+@import "papers/sliders";
+@import "papers/alerts";
+@import "papers/labels";
+@import "papers/tooltips-and-popovers";
+@import "papers/sections";
+@import "papers/checkbox-radio";
+@import "papers/navbars";
+@import "papers/images";
+
+// Fancy Stuff
+@import "papers/social";
+@import "papers/animated-buttons";
+@import "papers/switch";
+@import "papers/dropdown";
+@import "papers/tags";
+@import "papers/preloaders";
+@import "papers/sidebar";
+@import "papers/bootstrap-select";
+
+// Predefined page areas
+@import "papers/headers";
+@import "papers/footers";
+
+// Predefined description areas
+@import "papers/info-areas";
+
+// Tables
+@import "papers/tables";
+
+//Comments
+@import "papers/media";
+
+@import "papers/tabs-navs-pagination";
+@import "papers/collapse";
+@import "papers/carousel";
+@import "papers/modal";
+
+//For responsive features
+@import "papers/responsive";
+
+// //For gallery, using PhotoSwipe
+@import "papers/plugins/photo-swipe/main.scss";
+@import "papers/plugins/photo-swipe/default-skin.scss";
+@import "papers/plugins/photo-swipe/gallery.scss";
+
+// For dateTimePicker
+@import "papers/plugins/datetimepicker";
+
+// Cards
+@import "papers/cards.scss";
+
+// FileUpload
+@import "papers/fileupload.scss";
+
+// Switches
+@import "papers/bootstrap-switch.scss";
+
+// Error pages
+@import "papers/error-pages.scss";
+
+// Sections
+@import "papers/sections/headers";
+@import "papers/sections/features";
+@import "papers/sections/blogs";
+@import "papers/sections/teams";
+@import "papers/sections/projects";
+@import "papers/sections/pricing";
+@import "papers/sections/testimonials";
+@import "papers/sections/contact-us";
+
+@import "papers/examples";

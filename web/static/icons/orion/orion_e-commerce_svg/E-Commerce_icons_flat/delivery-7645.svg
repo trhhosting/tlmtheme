@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Delivery</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer5"
+  d="M27.806 44a6.944 6.944 0 0 1-6.187 5c-2.652 0-4.184-2.237-3.422-5a6.942 6.942 0 0 1 6.186-5c2.652 0 4.185 2.239 3.423 5zm25 0a6.94 6.94 0 0 1-6.187 5c-2.652 0-4.184-2.237-3.422-5a6.942 6.942 0 0 1 6.188-5c2.652 0 4.183 2.239 3.421 5z"
+  fill="#8fa9d8"></path>
+  <path data-name="layer4" d="M58.1 31H44.5s2.616-10.724 3.218-12.885C48.138 16.566 48.326 15 46 15H20l-8 28h6.567a6.893 6.893 0 0 1 5.814-4 3.485 3.485 0 0 1 3.6 4h15.588a6.893 6.893 0 0 1 5.815-4 3.484 3.484 0 0 1 3.6 4H60c1.469 0 2-.717 2-2v-8z"
+  fill="#d2ddf0"></path>
+  <path data-name="layer3" d="M58.1 31L52 23h-5.446l-.1.047A1702.72 1702.72 0 0 0 44.491 31z"
+  fill="#8adfff"></path>
+  <path data-name="layer2" d="M44.491 31s1.754-7.191 2.72-10.982l.718-2.9C48.1 15.959 47.819 15 46 15H20l-8 28h6.567a6.893 6.893 0 0 1 5.814-4 3.485 3.485 0 0 1 3.6 4h13.538z"
+  fill="#f27e7c"></path>
+  <path data-name="layer1" d="M30 24H8a1 1 0 0 1 0-2h22a1 1 0 0 1 0 2zm-4 8H4a1 1 0 0 1 0-2h22a1 1 0 1 1 0 2z"
+  fill="#f7aead"></path>
+</svg>

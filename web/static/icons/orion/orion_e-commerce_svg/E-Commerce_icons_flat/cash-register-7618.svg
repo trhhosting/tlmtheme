@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Cash Register</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer4"
+  d="M44 19a1 1 0 0 1-1-1v-8a1 1 0 1 1 2 0v8a1 1 0 0 1-1 1z" fill="#7c97c5"></path>
+  <path data-name="layer1" d="M2 50l6-18h48l6 18" fill="#c3d6f9"></path>
+  <path data-name="layer1" fill="#c3d6f9" d="M2 49.998h60v12H2zM8 32V22a4 4 0 0 1 4-4h40a4 4 0 0 1 4 4v10"></path>
+  <path data-name="opacity" fill="#000064" opacity=".15" d="M2 49.998h60v12H2zM8 32V22a4 4 0 0 1 4-4h40a4 4 0 0 1 4 4v10"></path>
+  <circle data-name="layer3" cx="32" cy="56.001" r="1" fill="#7b8baf"></circle>
+  <path data-name="layer2" fill="#e6edf7" d="M16 10.001h12v14H16z"></path>
+  <rect data-name="layer1" x="36" y="2.001" width="15.998" height="8"
+  rx="3" ry="3" fill="#c3d6f9"></rect>
+  <path data-name="opacity" d="M48 27H36a1 1 0 0 1 0-2h12a1 1 0 0 1 0 2zM18 46h-4a1 1 0 0 1 0-2h4a1 1 0 0 1 0 2zm10 0h-4a1 1 0 1 1 0-2h4a1 1 0 0 1 0 2zm10 0h-4a1 1 0 0 1 0-2h4a1 1 0 0 1 0 2zm10.006 0h-4a1 1 0 0 1 0-2h4a1 1 0 0 1 0 2zM23 40h-4a1 1 0 0 1 0-2h4a1 1 0 0 1 0 2zm10 0h-4a1 1 0 0 1 0-2h4a1 1 0 0 1 0 2zm10 0h-4a1 1 0 0 1 0-2h4a1 1 0 0 1 0 2z"
+  fill="#000064" opacity=".15"></path>
+  <path data-name="layer2" d="M19 45h-4a1 1 0 0 1 0-2h4a1 1 0 0 1 0 2zm10 0h-4a1 1 0 1 1 0-2h4a1 1 0 0 1 0 2zm10 0h-4a1 1 0 0 1 0-2h4a1 1 0 0 1 0 2zm10.006 0h-4a1 1 0 0 1 0-2h4a1 1 0 0 1 0 2zM24 39h-4a1 1 0 0 1 0-2h4a1 1 0 0 1 0 2zm10 0h-4a1 1 0 0 1 0-2h4a1 1 0 0 1 0 2zm10 0h-4a1 1 0 0 1 0-2h4a1 1 0 0 1 0 2z"
+  fill="#e6edf7"></path>
+  <circle data-name="opacity" cx="31" cy="57.001" r="2" fill="#000064"
+  opacity=".15"></circle>
+  <circle data-name="layer1" cx="32" cy="56.001" r="2" fill="#c3d6f9"></circle>
+</svg>

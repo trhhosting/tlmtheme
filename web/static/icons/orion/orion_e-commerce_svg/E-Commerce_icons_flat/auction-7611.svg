@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Auction</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  fill="#cd7b5a" d="M36.45 53.501h26v8h-26zM17.301 14.814L27.91 4.208l18.385 18.39-10.608 10.605z"></path>
+  <path data-name="layer1" fill="#7b8baf" d="M38.45 53.5l.001-3.999h22.002l-.001 3.999"></path>
+  <path data-name="layer2" d="M28.84 26.352L6.529 48.662a3 3 0 1 1-4.242-4.243L24.6 22.108z"
+  fill="#cd7b5a"></path>
+  <path data-name="opacity" d="M28.84 26.352L6.529 48.662a3 3 0 1 1-4.242-4.243L24.6 22.108z"
+  fill="#000064" opacity=".15"></path>
+  <path data-name="opacity" fill="#fff" opacity=".2" d="M22.532 9.581l5.374-5.374 18.388 18.387-5.374 5.374z"></path>
+  <path data-name="layer1" d="M15.884 16.229a1 1 0 0 1 0-1.414L27.907 2.792a1 1 0 0 1 1.414 1.414L17.3 16.229a1 1 0 0 1-1.416 0zm18.387 18.386a1 1 0 0 1 0-1.414L46.294 21.18a1 1 0 0 1 1.414 0 1 1 0 0 1 0 1.415l-12.023 12.02a1 1 0 0 1-1.414 0z"
+  fill="#7b8baf"></path>
+  <path data-name="opacity" fill="#000064" opacity=".15" d="M38.451 49.502h6.01v4.009h-6.01z"></path>
+  <path data-name="opacity" fill="#fff" opacity=".2" d="M54.442 49.502h6.01v4.009h-6.01zm2.14 4.009h6.01v7.99h-6.01z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".15" d="M36.45 53.511h6.01v7.99h-6.01z"></path>
+</svg>

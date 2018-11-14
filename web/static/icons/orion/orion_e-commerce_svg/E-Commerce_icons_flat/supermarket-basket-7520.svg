@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Supermarket Basket</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer3"
+  d="M8.066 28a1 1 0 0 1-.744-1.668l17.934-20a1 1 0 0 1 1.489 1.335l-17.934 20a1 1 0 0 1-.745.333zM56 28a.994.994 0 0 1-.744-.331l-18-20a1 1 0 1 1 1.486-1.337l18 20A1 1 0 0 1 56 28z"
+  fill="#7b8baf"></path>
+  <path data-name="layer2" fill="#78d1f4" d="M58 27l-6 30H12.018L6.066 27H58z"></path>
+  <path data-name="opacity" d="M48 40H16a1 1 0 0 1 0-2h32a1 1 0 0 1 0 2zm-2 8H18a1 1 0 0 1 0-2h28a1 1 0 0 1 0 2z"
+  fill="#000064" opacity=".1"></path>
+  <path data-name="layer1" d="M60.033 28h-56a1 1 0 0 1 0-2h56a1 1 0 0 1 0 2z"
+  fill="#a0dff7"></path>
+</svg>

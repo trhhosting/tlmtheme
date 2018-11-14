@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Delivery Truck</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer5"
+  fill="#f27e7c" d="M1.843 38.378V2.379h36v35.999"></path>
+  <circle data-name="layer4" cx="13.843" cy="46.38" r="6" fill="#8fa9d8"></circle>
+  <circle data-name="layer4" cx="49.841" cy="46.38" r="6" fill="#8fa9d8"></circle>
+  <path data-name="layer3" d="M1.845 38.378v8h6a6 6 0 0 1 12 0h24a6 6 0 0 1 12 0h6v-8z"
+  fill="#7b8baf"></path>
+  <path data-name="layer2" fill="#d2ddf0" d="M61.846 38.378l-.005-8-3.996-4-6.002-11.999H37.845v24l24.001-.001z"></path>
+  <path data-name="layer1" fill="#8adfff" d="M50.841 16.375H39.845v10.003h16l-5.004-10.003z"></path>
+  <path data-name="opacity" fill="#fff" opacity=".4" d="M55.845 26.378l-16-10.002h10.996l5.004 10.002z"></path>
+</svg>

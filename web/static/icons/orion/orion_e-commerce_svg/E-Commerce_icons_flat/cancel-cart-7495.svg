@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Cancel Cart</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer5"
+  d="M13 23a1 1 0 0 1-.97-.758L8.22 7H3a1 1 0 0 1 0-2h6a1 1 0 0 1 .971.759l4 16a1 1 0 0 1-.728 1.212A.971.971 0 0 1 13 23z"
+  fill="#8fa9d8"></path>
+  <circle data-name="layer4" cx="20.001" cy="54" r="4" fill="#7b8baf"></circle>
+  <circle data-name="layer4" cx="46.001" cy="54" r="4" fill="#7b8baf"></circle>
+  <path data-name="layer3" d="M29.993 22H12l5.992 24h32l3.244-9.732-.012-.006A15.982 15.982 0 0 1 29.993 22z"
+  fill="#a7c5f2"></path>
+  <path data-name="opacity" d="M15.6 36.4L18 46h32l3.244-9.732-.012-.006a15.982 15.982 0 0 1-23.239-14.254z"
+  fill="#000064" opacity=".1"></path>
+  <path data-name="layer2" d="M46 37a15 15 0 1 1 15-15 15.017 15.017 0 0 1-15 15z"
+  fill="#fff"></path>
+  <path data-name="layer1" d="M57.314 10.687a16 16 0 1 0 0 22.627 16 16 0 0 0 0-22.627zM36.1 12.1a14.006 14.006 0 0 1 19.056-.672L35.429 31.157A14.006 14.006 0 0 1 36.1 12.1zm.743 20.47l19.728-19.726a13.984 13.984 0 0 1-19.727 19.727z"
+  fill="#f4475d"></path>
+</svg>

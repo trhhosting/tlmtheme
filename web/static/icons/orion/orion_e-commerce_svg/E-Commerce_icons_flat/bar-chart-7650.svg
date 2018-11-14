@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Bar Chart</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer5"
+  fill="#7c97c5" d="M48.5 9.499h8v44.002h-8z"></path>
+  <path data-name="layer4" fill="#a2b8df" d="M20.5 21.506h8v31.996h-8z"></path>
+  <path data-name="layer3" fill="#d2ddf0" d="M6.5 41.515h8v11.987h-8z"></path>
+  <path data-name="layer2" fill="#afc1db" d="M34.5 29.515h8v23.987h-8z"></path>
+  <path data-name="layer1" d="M60.5 54.5h-57a1 1 0 0 1 0-2h57a1 1 0 0 1 0 2z"
+  fill="#7b8baf"></path>
+</svg>

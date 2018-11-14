@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Yen Bill</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  d="M54.01 32a8 8 0 0 1 8-8V14H2v10a8 8 0 1 1 0 16v10h60.01V40a8 8 0 0 1-8-8z"
+  fill="#f27e7c"></path>
+  <path data-name="opacity" d="M62.01 40a8 8 0 0 1-8-8H10a8 8 0 0 1-8 8v10h60.01z"
+  fill="#000064" opacity=".1"></path>
+  <path data-name="layer1" d="M40.041 20.555a1 1 0 1 0-1.641-1.142L32 28.63l-6.38-9.215a1 1 0 0 0-1.645 1.139L30.993 30.7v.3H27a1 1 0 0 0 0 2h3.988v4.012H27a1 1 0 0 0 0 2h3.988v4.972a1 1 0 1 0 2 0v-4.972H37a1 1 0 0 0 0-2h-4.007V33H37a1 1 0 0 0 0-2h-4.007v-.3z"
+  fill="#ffdda4"></path>
+</svg>

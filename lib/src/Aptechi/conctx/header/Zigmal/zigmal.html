@@ -1,0 +1,45 @@
+<!--     *********     HEADER 4 (w/ video)      *********      -->
+<div *ngFor="let c of data">
+	<div class="header-wrapper">
+		<nav class="navbar navbar-expand-lg navbar-transparent navbar-absolute">
+			<div class="container">
+				<a class="navbar-brand mb-0" [href]="c.menus[0].menuLink">{{c.menus[0].menuName}}</a>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-bar"></span>
+					<span class="navbar-toggler-bar"></span>
+					<span class="navbar-toggler-bar"></span>
+				</button>
+				<div class="collapse navbar-collapse" id="navbarSupportedContent1">
+					<ul class="navbar-nav ml-auto">
+						<a [href]="c.menus[1].menuLink" class="btn btn-link btn-neutral">{{c.menus[1].menuName}}</a>
+						<a [href]="c.menus[2].menuLink" class="btn btn-link btn-neutral">{{c.menus[2].menuName}}</a>
+						<a [href]="c.menus[3].menuLink" class="btn btn-link btn-neutral">{{c.menus[3].menuName}}</a>
+					</ul>
+				</div>
+			</div>
+		</nav>
+		<div class="page-header header-video tlm-page-header" [style.background-image]="'url('+ c.photo +')'">
+			<div class="filter"></div>
+			<!-- We show the video image placeholder instead of the video for small devices  -->
+			<!--<div class="video-image" ></div>-->
+			<video id="video-source" autoplay preload="auto" loop="loop" volume="0" [poster]="c.backgroundVideo.backgroundImage">
+				<source [src]="c.backgroundVideo.videoFiles['mp4']" type="video/mp4">
+				<source [src]="c.backgroundVideo.videoFiles['webm']" type="video/webm">
+			</video>
+			<div class="content-center">
+				<div class="container upper-container text-center">
+					<div class="video-text">
+						<h2>{{c.subTitle}}</h2>
+						<h1 class="title-uppercase title-no-upper-margin">{{c.title}}</h1>
+					</div>
+					<br />
+					<!--  We hide the play button on small devices -->
+					<button (click)="play()" type="button" data-video="video-source" data-toggle="video" class="btn btn-lg btn-neutral">
+						<i class="fa fa-play"></i> {{c.callToAction['buttonText']}}
+					</button>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--     *********    END HEADER 4      *********      -->

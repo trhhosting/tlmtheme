@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Ribbon</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer3"
+  d="M31.981 33.821a7.971 7.971 0 0 0 6-2.723 25.143 25.143 0 0 0 2.572 1.373l7.43 17.589-10 4-8.061-20.516a8 8 0 0 0 2.059.277z"
+  fill="#d35e5e"></path>
+  <path data-name="opacity" d="M31.981 33.821a7.971 7.971 0 0 0 6-2.723 25.143 25.143 0 0 0 2.572 1.373l7.43 17.589-10 4-8.061-20.516a8 8 0 0 0 2.059.277z"
+  opacity=".15"></path>
+  <path data-name="layer3" d="M32 33.821a7.972 7.972 0 0 1-6-2.721 25.247 25.247 0 0 1-2.572 1.373l-7.43 17.589 10 4 8.064-20.521a7.986 7.986 0 0 1-2.062.28z"
+  fill="#d35e5e"></path>
+  <path data-name="layer2" d="M5 11.066c4.59-4.594 27 6.275 27 14.755S7.418 43.489 5 41.066s-4.6-25.405 0-30zm54 29.265c-4.595 4.595-27-6.275-27-14.754S56.582 7.908 59 10.331s4.6 25.405 0 30z"
+  fill="#f27e7c"></path>
+  <circle data-name="opacity" cx="28.291" cy="29.529" r="8.5" opacity=".15"></circle>
+  <circle data-name="layer1" cx="32" cy="25.821" r="8.5" fill="#ffdda4"></circle>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Open Box</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer1"
+  fill="#c69267" d="M9.5 23.524v26l22.5 12 22.5-12v-26h-45z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".15" d="M9.5 23.524v26l22.5 12v-38H9.5z"></path>
+  <path data-name="layer1" fill="#c69267" d="M32 11.524v24l22.5-12-22.5-12z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".15" d="M32 11.524v24l22.5-12-22.5-12z"></path>
+  <path data-name="layer1" fill="#c69267" d="M9.5 23.524l22.5 12v-24l-22.5 12zm-9 9L23 44.573l9-9L9.5 23.524l-9 9zm63 0L41 44.573l-9-9 22.5-12.049 9 9zm-63-18L23 2.476l9 9L9.5 23.524l-9-9z"></path>
+  <path data-name="opacity" fill="#fff" opacity=".15" d="M.5 32.524L23 44.573l9-9L9.5 23.524l-9 9zm63 0L41 44.573l-9-9 22.5-12.049 9 9zm-63-18L23 2.476l9 9L9.5 23.524l-9-9z"></path>
+  <path data-name="layer1" fill="#c69267" d="M63.5 14.524L41 2.476l-9 9 22.5 12.048 9-9z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".1" d="M63.5 14.524L41 2.476l-9 9 22.5 12.048 9-9z"></path>
+</svg>

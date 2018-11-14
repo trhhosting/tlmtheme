@@ -1,0 +1,79 @@
+<!--     *********     BLOGS 3      *********      -->
+<div *ngFor="let blog of blogs" class="blog-3">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-10 ml-auto mr-auto">
+				<h2 class="title">{{blog.title}}</h2>
+				<br />
+				<div *ngFor="let card of blog.cards">
+					<ul>
+						<li *ngIf="card.id != null && card.id % 2 != 0">
+							<div class="card card-plain card-blog">
+								<div class="row">
+									<div class="col-md-7">
+										<div class="card-body">
+											<h6 class="card-category text-danger">
+												<i class="fa fa-free-code-camp" aria-hidden="true"></i> {{ card.title }}
+											</h6>
+											<h3 class="card-title">
+												<a [href]="card.content['subTitleLink']">{{card.content['subTitle']}}</a>
+											</h3>
+											<p class="card-description">
+												{{card.content['description']}}
+												<a [href]="card.content['descMoreLink']"> {{card.content['descMore']}} </a>
+											</p>
+											<p class="author">
+												{{card.content['authorBy']}}
+												<a [href]="card.content['authorLink']">
+													<b>{{card.content['authorName']}}</b>
+												</a>, {{card.content['wroteDate']}}
+											</p>
+										</div>
+									</div>
+									<div class="col-md-5">
+										<div class="card-image">
+											<img class="img" [src]="card.photo" />
+										</div>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li *ngIf="card.id != null && card.id % 2 == 0">
+							<div class="card card-plain card-blog">
+								<div class="row">
+									<div class="col-md-5">
+										<div class="card-image">
+											<img class="img" [src]="card.photo" />
+										</div>
+									</div>
+									<div class="col-md-7">
+										<div class="card-body">
+											<h6 class="card-category text-info">{{ card.title }}</h6>
+											<h3 class="card-title">
+												<a [href]="card.content['subTitleLink']">{{card.content['subTitle']}}</a>
+											</h3>
+											<p class="card-description">
+												{{card.content['description']}}
+												<a [href]="card.content['descMoreLink']"> {{card.content['descMore']}} </a>
+											</p>
+											<p class="author">
+												{{card.content['authorBy']}}
+												<a [href]="card.content['authorLink']">
+													<b>{{card.content['authorName']}}</b>
+												</a>, {{card.content['wroteDate']}}
+											</p>
+										</div>
+									</div>
+								</div>
+							</div>
+
+						</li>
+					</ul>
+
+				</div>
+
+			</div>
+		</div>
+	</div>
+</div>
+<!--     *********    END BLOGS 3      *********      -->

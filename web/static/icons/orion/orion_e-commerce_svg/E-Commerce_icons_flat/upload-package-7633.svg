@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Upload Package</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <circle data-name="layer4"
+  cx="46" cy="46" r="16" fill="#49bcff"></circle>
+  <path data-name="layer3" d="M46 30a15.985 15.985 0 0 1 3.987.521l.013-.012V16.4L40.4 4H11.6L2 16.4V50h28.5l.017-.017A15.943 15.943 0 0 1 46 30z"
+  fill="#c69267"></path>
+  <path data-name="opacity" fill="#fff" opacity=".15" d="M40.402 4H11.6L2.266 16.001 49.734 16 40.402 4z"></path>
+  <path data-name="layer2" fill="#ffdda4" d="M20 16l12 .001L29 4l-6-.001L20 16z"></path>
+  <path data-name="opacity" d="M34.721 34.651L19.372 50H30.5l.017-.017a15.874 15.874 0 0 1 4.2-15.33z"
+  fill="#000064" opacity=".15"></path>
+  <path data-name="layer1" d="M52.715 43.3l-6.008-6a1 1 0 0 0-1.414 0l-6.008 6a1 1 0 0 0 1.415 1.414l4.3-4.3V54a1 1 0 1 0 2 0V40.416l4.3 4.3a1 1 0 0 0 1.415-1.416z"
+  fill="#fff"></path>
+</svg>

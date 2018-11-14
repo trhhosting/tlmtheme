@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Secure Shopping</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer6"
+  d="M12.994 23.708a1 1 0 0 1-.97-.759L8.2 7.5H2.994a1 1 0 0 1 0-2h5.991a1 1 0 0 1 .971.761l4.007 16.208a1 1 0 0 1-.729 1.21 1.055 1.055 0 0 1-.24.029z"
+  fill="#8fa9d8"></path>
+  <path data-name="layer5" fill="#c3d6f9" d="M57.995 22.499l-46.001.001 5.992 24.001h32.001l8.008-24.002z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".1" d="M57.995 22.499H34.486L16.487 40.498l1.499 6.003h32.001l8.008-24.002z"></path>
+  <circle data-name="layer4" cx="19.986" cy="54.5" r="4" fill="#7b8baf"></circle>
+  <circle data-name="layer4" cx="45.986" cy="54.5" r="4" fill="#7b8baf"></circle>
+  <path data-name="layer3" d="M34.005 6.519h28v11.768A22.377 22.377 0 0 1 48 38.519a22.374 22.374 0 0 1-14-20.232z"
+  fill="#ffdda4"></path>
+  <path data-name="layer2" d="M34.005 6.519v11.768A22.374 22.374 0 0 0 48 38.519v-32z"
+  fill="#f7c98a"></path>
+  <path data-name="layer1" d="M47.005 25.519a.987.987 0 0 1-.707-.293l-5-5a1 1 0 0 1 1.414-1.415l4.293 4.294 8.295-8.293a1 1 0 1 1 1.414 1.415l-9 9a.992.992 0 0 1-.709.292z"
+  fill="#556685"></path>
+</svg>

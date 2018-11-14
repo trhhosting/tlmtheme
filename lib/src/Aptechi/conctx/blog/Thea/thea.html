@@ -1,0 +1,132 @@
+<!--     *********     BLOGS 5      *********      -->
+<!--
+<template ngFor let-b [ngForOf]="blogMenus">
+	<p>{{b.ID}}</p>
+	<p>{{b.title}}</p>
+	<p>{{b.mCards.card1.photo}}</p>
+</template>
+-->
+<!--     *********    END BLOGS 5      *********      -->
+<!--     *********     BLOGS 5      *********      -->
+<template ngFor let-b [ngForOf]="blogMenus">
+	<div class="blog-5">
+		<div class="container">
+			<h2 class="title text-center">{{b.title}}</h2>
+			<div class="row">
+				<div class="col-md-7">
+					<div class="card" data-background="image" [style.background-image]="'url('+ b.mCards.card1.photo +')'" >
+						<div class="card-body">
+							<h6 class="card-category">
+								<i class="fa fa-newspaper-o"></i> {{b.mCards.card1.title}}</h6>
+							<a [href]="b.mCards.card1.content['subTitleLink']">
+								<h3 class="card-title">{{b.mCards.card1.content['subTitle']}}</h3>
+							</a>
+							<p class="card-description">
+								{{b.mCards.card1.content['description']}}
+							</p>
+							<div class="card-footer">
+								<div class="author">
+									<a [href]="b.mCards.card1.content['authorLink']">
+										<img [src]="b.mCards.card1.content['authorPhoto']" alt="..." class="avatar img-raised">
+										<span>{{b.mCards.card1.content['authorName']}}</span>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-5">
+					<div class="card" data-background="image" [style.background-image]="'url('+ b.mCards.card2.photo +')'">
+						<div class="card-body">
+							<h6 class="card-category">
+								<i class="fa fa-newspaper-o"></i> {{b.mCards.card2.title}}</h6>
+							<a [href]="b.mCards.card1.content['subTitleLink']">
+								<h3 class="card-title">{{b.mCards.card2.content['subTitle']}}</h3>
+							</a>
+							<p class="card-description">
+								{{b.mCards.card2.content['subTitle']}}
+							</p>
+							<div class="card-footer">
+								<div class="author">
+									<a [href]="b.mCards.card2.content['authorLink']">
+										<img [src]="b.mCards.card2.content['authorPhoto']" alt="..." class="avatar img-raised">
+										<span>{{b.mCards.card2.content['authorName']}}</span>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-3">
+					<div class="card" data-background="image" [style.background-image]="'url('+ b.mCards.card3.photo +')'">
+						<div class="card-body">
+							<h6 class="card-category">
+								<i class="fa fa-newspaper-o"></i> {{b.mCards.card3.title}}</h6>
+							<a [href]="b.mCards.card3.content['subTitleLink']">
+								<h3 class="card-title">{{b.mCards.card3.content['subTitle']}}</h3>
+							</a>
+							<p class="card-description">
+							{{ b.mCards.card3.content['description'] }}
+							</p>
+							<div class="card-footer">
+								<div class="author">
+									<a [href]="b.mCards.card3.content['authorLink']">
+										<img [src]="b.mCards.card3.content['authorPhoto']" alt="..." class="avatar img-raised">
+										<span>{{b.mCards.card3.content['authorName']}}</span>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="card" data-background="image" [style.background-image]="'url('+ b.mCards.card4.photo +')'">
+						<div class="card-body">
+							<h6 class="card-category">
+								<i class="fa fa-newspaper-o"></i> {{b.mCards.card4.title}}</h6>
+							<a [href]="b.mCards.card4.content['subTitleLink']">
+								<h3 class="card-title">{{b.mCards.card4.content['subTitle']}}</h3>
+							</a>
+							<p class="card-description">
+								{{b.mCards.card4.content['description']}}
+							</p>
+							<div class="card-footer">
+								<div class="author">
+									<a [href]="b.mCards.card4.content['authorLink']">
+										<img [src]="b.mCards.card4.content['authorPhoto']" alt="..." class="avatar img-raised">
+										<span>{{b.mCards.card4.content['authorName']}}</span>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="card" data-background="image" [style.background-image]="'url('+ b.mCards.card5.photo +')'">
+						<div class="card-body">
+							<h6 class="card-category">
+								<i class="fa fa-newspaper-o"></i> {{b.mCards.card5.title}}</h6>
+							<a [href]="b.mCards.card5.content['subTitleLink']">
+								<h3 class="card-title">{{b.mCards.card5.content['subTitle']}}</h3>
+							</a>
+							<p class="card-description">
+								{{b.mCards.card5.content['description']}}
+							</p>
+							<div class="card-footer">
+								<div class="author">
+									<a [href]="b.mCards.card5.content['authorLink']">
+										<img [src]="b.mCards.card5.content['authorPhoto']" alt="..." class="avatar img-raised">
+										<span>{{b.mCards.card5.content['authorName']}}</span>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</template>
+<!--     *********    END BLOGS 5      *********      -->

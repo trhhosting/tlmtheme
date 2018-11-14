@@ -1,0 +1,118 @@
+<!--     *********     BLOGS 2      *********      -->
+<div *ngFor="let blog of blogs" class="container">
+	<div class="row">
+		<div class="col-md-10 ml-auto mr-auto">
+			<h2 class="title">{{blog.title}}</h2>
+			<br />
+			<div class="row">
+				<template  ngFor let-card [ngForOf]="blog.cards">
+					<div *ngIf="card.id == 1 || card.id % 4 == 0 && card.id != null"  class="col-md-4">
+							<div class="card card-blog">
+								<div class="card-image">
+									<a [href]="card.content['subLink']">
+										<img class="img img-raised" [src]="card.photo" />
+									</a>
+								</div>
+								<div class="card-body">
+									<h6 class="card-category text-danger">
+										<i class="fa fa-free-code-camp" aria-hidden="true"></i> {{card.title}}
+									</h6>
+									<h5 class="card-title">
+										<a [href]="card.content['subTitleLink']">{{card.content['subTitle']}}</a>
+									</h5>
+									<p class="card-description">
+										{{card.content['description']}}
+										<br/>
+									</p>
+									<hr>
+									<div class="card-footer">
+										<div class="author">
+											<a [href]="card.content['subLink']">
+												<img [src]="card.content['authorPhoto']" class="avatar img-raised">
+												<span>{{card.content['authorName']}}</span>
+											</a>
+										</div>
+										<div class="stats">
+											<i class="fa fa-clock-o" aria-hidden="true"></i> {{card.content['descMore']}}
+										</div>
+									</div>
+								</div>
+							</div>
+					</div>
+				</template>
+				<template  ngFor let-card [ngForOf]="blog.cards">
+					<div *ngIf="card.id != null && card.id % 2 == 0" class="col-md-4">
+							<div class="card card-blog">
+								<div class="card-image">
+									<a [href]="card.content['subLink']">
+										<img class="img img-raised" [src]="card.photo" />
+									</a>
+								</div>
+								<div class="card-body">
+									<h6 class="card-category text-success">
+										{{card.title}}
+									</h6>
+									<h5 class="card-title">
+										<a [href]="card.content['subTitleLink']">{{card.content['subTitle']}}</a>
+									</h5>
+									<p class="card-description">
+										{{card.content['description']}}
+										<br/>
+									</p>
+									<hr>
+									<div class="card-footer">
+										<div class="author">
+											<a [href]="card.content['subLink']">
+												<img [src]="card.content['authorPhoto']" class="avatar img-raised">
+												<span>{{card.content['authorName']}}</span>
+											</a>
+										</div>
+										<div class="stats">
+											<i class="fa fa-clock-o" aria-hidden="true"></i> {{card.content['descMore']}}
+										</div>
+									</div>
+								</div>
+							</div>
+					</div>
+				</template>
+				<template  ngFor let-card [ngForOf]="blog.cards">
+					<div *ngIf="card.id != null && card.id % 3 == 0" class="col-md-4">
+							<div class="card card-blog">
+								<div class="card-image">
+									<a [href]="card.content['subLink']">
+										<img class="img img-raised" [src]="card.photo" />
+									</a>
+								</div>
+								<div class="card-body">
+									<h6 class="card-category text-danger">
+										<i class="fa fa-free-code-camp" aria-hidden="true"></i> {{card.title}}
+									</h6>
+									<h5 class="card-title">
+										<a [href]="card.content['subTitleLink']">{{card.content['subTitle']}}</a>
+									</h5>
+									<p class="card-description">
+										{{card.content['description']}}
+										<br/>
+									</p>
+									<hr>
+									<div class="card-footer">
+										<div class="author">
+											<a [href]="card.content['subLink']">
+												<img [src]="card.content['authorPhoto']" class="avatar img-raised">
+												<span>{{card.content['authorName']}}</span>
+											</a>
+										</div>
+										<div class="stats">
+											<i class="fa fa-clock-o" aria-hidden="true"></i> {{card.content['descMore']}}
+										</div>
+									</div>
+								</div>
+							</div>
+					</div>
+				</template>
+			</div>
+		</div>
+	</div>
+</div>
+<!--     *********     END BLOGS 2  *********      -->
+

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Money Bag Yen</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer1"
+  d="M50 24.159a.994.994 0 0 1-.625-.22 18.235 18.235 0 0 0-12.264-3.819 1 1 0 1 1-.223-1.987 20.036 20.036 0 0 1 13.735 4.246 1 1 0 0 1-.623 1.78z"
+  fill="#f27e7c"></path>
+  <path data-name="opacity" d="M50 24.159a.994.994 0 0 1-.625-.22 18.235 18.235 0 0 0-12.264-3.819 1 1 0 1 1-.223-1.987 20.036 20.036 0 0 1 13.735 4.246 1 1 0 0 1-.623 1.78z"
+  fill="#000064" opacity=".15"></path>
+  <path data-name="layer2" d="M38 18.032S56 32 56 52a10 10 0 0 1-10 10H18A10 10 0 0 1 8 52c0-20 18-33.968 18-33.968S14 7.582 14 4s8 2 12 2c5.668 0 6.334-4 10-4s4.082 4.06 10 4.06c2.248 0-2 6.005-8 11.972z"
+  fill="#ffdda4"></path>
+  <path data-name="layer1" d="M38.19 19.083c-.643 0-1.079-.035-1.241-.051H24a1 1 0 0 1 0-2h13c.036 0 .074 0 .11.006a18.347 18.347 0 0 0 12.262-3.818 1 1 0 1 1 1.252 1.56 20.129 20.129 0 0 1-12.434 4.303z"
+  fill="#f27e7c"></path>
+  <path data-name="opacity" d="M40.842 31.622a1 1 0 1 0-1.564-1.247l-7.293 9.146-7.2-9.141a1 1 0 1 0-1.571 1.237l7.768 9.86V42h-4.6a1 1 0 0 0 0 2h4.6v4H26.4a1 1 0 0 0 0 2h4.58v5a1 1 0 0 0 2 0v-5h4.62a1 1 0 1 0 0-2h-4.619v-4h4.6a1 1 0 0 0 0-2h-4.6v-.517z"
+  fill="#000064" opacity=".15"></path>
+</svg>

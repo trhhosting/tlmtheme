@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Delivery Time</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer5"
+  d="M13 25.186a1 1 0 0 1-.969-.759L8.209 8.979H3a1 1 0 0 1 0-2h5.991a1 1 0 0 1 .972.76l4.007 16.206a1 1 0 0 1-.729 1.211.985.985 0 0 1-.241.03z"
+  fill="#8fa9d8"></path>
+  <circle data-name="layer4" cx="19.992" cy="55.978" r="4" fill="#7b8baf"></circle>
+  <circle data-name="layer4" cx="45.992" cy="55.977" r="4" fill="#7b8baf"></circle>
+  <path data-name="layer3" fill="#c3d6f9" d="M58.001 23.977H12l5.992 24.002h32l8.009-24.002z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".1" d="M58.001 23.977H30.493l-14.799 14.8 2.298 9.202h32l8.009-24.002z"></path>
+  <circle data-name="layer2" cx="46" cy="20.021" r="16" fill="#49bcff"></circle>
+  <path data-name="layer1" d="M54 23.021h-8a1 1 0 0 1-1-1v-10a1 1 0 1 1 2 0v9h7a1 1 0 0 1 0 2z"
+  fill="#fff"></path>
+</svg>

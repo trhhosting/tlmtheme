@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Store Sale</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer4"
+  d="M15 23.208a1 1 0 0 1-.97-.759L10.209 7H5a1 1 0 0 1 0-2h5.991a1 1 0 0 1 .972.762L15.97 21.97a1 1 0 0 1-.729 1.21 1.061 1.061 0 0 1-.241.028z"
+  fill="#8fa9d8"></path>
+  <circle data-name="layer3" cx="21.992" cy="53.999" r="4" fill="#7b8baf"></circle>
+  <circle data-name="layer3" cx="47.992" cy="53.999" r="4" fill="#7b8baf"></circle>
+  <path data-name="layer2" fill="#c3d6f9" d="M60.001 21.999L13.999 22l5.993 24.001h32l8.009-24.002z"></path>
+  <path data-name="layer1" d="M46 12a1 1 0 0 1-1-1V7a1 1 0 0 1 2 0v4a1 1 0 0 1-1 1zm0 26a1 1 0 0 1-1-1v-4a1 1 0 0 1 2 0v4a1 1 0 0 1-1 1z"
+  fill="#556685"></path>
+  <path data-name="layer1" d="M46 34c-5.261 0-8.089-3.556-8.491-6.86a1 1 0 0 1 1.991-.24c.307 2.538 2.439 5.1 6.5 5.1 4.252 0 7-1.57 7-4 0-2.3-1.9-3.858-6.563-5.373C40.824 20.8 38 19.889 38 16s4.122-6 8-6c4.288 0 6.817 1.818 7.959 5.719a1 1 0 1 1-1.919.562C51.154 13.24 49.4 12 46 12c-2.949 0-6 1.5-6 4 0 2.346 1.347 2.872 7.055 4.725C50.988 22 55 23.865 55 28c0 3.645-3.529 6-9 6z"
+  fill="#556685"></path>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Store</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer4"
+  fill="#e0eafc" d="M6.802 22.001v35.497h48V22.001h-48z"></path>
+  <path data-name="layer1" fill="#d35e5e" d="M34.808 35.499h12V57.5h-12z"></path>
+  <path data-name="layer3" fill="#a7c5f2" d="M14.802 35.497h13.996v12H14.802z"></path>
+  <path data-name="opacity" opacity=".15" d="M47.456 22.001l-35.99.001-4.512 4.512v30.984H26.7l28.126-28.127-7.37-7.37z"></path>
+  <path data-name="layer2" d="M51.419 5.5H10.177L.808 22a7.5 7.5 0 0 0 15 0 7.5 7.5 0 0 0 15 0 7.5 7.5 0 0 0 15 0 7.5 7.5 0 0 0 15 0z"
+  fill="#f27e7c"></path>
+  <path data-name="layer1" d="M30.89 23.015l-.061-.691c.011.233.03.463.061.691zM15.81 22l-.1 1.161a7.59 7.59 0 0 0 .1-1.161z"
+  fill="#d35e5e"></path>
+  <path data-name="layer1" d="M8.391 29.5a7.5 7.5 0 0 0 7.5-7.5h-15a7.5 7.5 0 0 0 7.5 7.5zm29.999 0a7.5 7.5 0 0 0 7.5-7.5h-15a7.5 7.5 0 0 0 7.5 7.5z"
+  fill="#d35e5e"></path>
+  <path data-name="layer1" d="M23.31 29.5a7.5 7.5 0 0 0 7.5-7.5h-15a7.5 7.5 0 0 0 7.5 7.5zm29.998 0a7.5 7.5 0 0 0 7.5-7.5h-15a7.5 7.5 0 0 0 7.5 7.5z"
+  fill="#d35e5e"></path>
+  <path data-name="opacity" d="M23.314 29.5a7.5 7.5 0 0 0 7.5-7.412L30.8 22V5.5h-10L15.81 22a7.5 7.5 0 0 0 7.504 7.5zM40.8 5.5L45.787 22l.009.266c0-.089.014-.177.014-.266a7.5 7.5 0 0 0 15 0L51.419 5.5z"
+  opacity=".15"></path>
+</svg>

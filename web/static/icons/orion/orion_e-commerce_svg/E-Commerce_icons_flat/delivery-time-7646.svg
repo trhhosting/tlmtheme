@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Delivery Time</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer6"
+  fill="#7b8baf" d="M16 47.999h45v7H16z"></path>
+  <path data-name="layer4" d="M24.535 24l-.262.18a11.989 11.989 0 0 1-8.248 5.638l-.025.015V48h29V24z"
+  fill="#f27e7c"></path>
+  <path data-name="layer5" fill="#d2ddf0" d="M61 47.999v-5.998l-7.959-7.96H45v13.958h16z"></path>
+  <path data-name="layer4" d="M11 42H5a1 1 0 0 1 0-2h6a1 1 0 0 1 0 2zm0 6H9a1 1 0 0 1 0-2h2a1 1 0 0 1 0 2z"
+  fill="#f27e7c"></path>
+  <circle data-name="layer3" cx="25.002" cy="55.001" r="5" fill="#8fa9d8"></circle>
+  <circle data-name="layer3" cx="50" cy="55.001" r="5" fill="#8fa9d8"></circle>
+  <path data-name="opacity" d="M24.273 24.179a11.989 11.989 0 0 1-8.248 5.638l-.025.016V38a14 14 0 0 0 14-14h-5.465z"
+  fill="#000064" opacity=".15"></path>
+  <circle data-name="layer2" cx="16" cy="23.999" r="12" fill="#49bcff"></circle>
+  <path data-name="layer1" d="M22 27h-6a1 1 0 0 1-1-1v-8a1 1 0 0 1 2 0v7h5a1 1 0 0 1 0 2z"
+  fill="#fff"></path>
+</svg>

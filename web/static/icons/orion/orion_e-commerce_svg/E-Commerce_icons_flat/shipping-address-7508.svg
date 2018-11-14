@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Shipping Address</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer5"
+  d="M15 25.2a1 1 0 0 1-.971-.761l-3.821-15.45H5a1 1 0 0 1 0-2h5.99a1 1 0 0 1 .972.76l4.007 16.208a1 1 0 0 1-.729 1.21 1.06 1.06 0 0 1-.24.033z"
+  fill="#8fa9d8"></path>
+  <circle data-name="layer4" cx="21.991" cy="55.988" r="4" fill="#7b8baf"></circle>
+  <circle data-name="layer4" cx="47.991" cy="55.988" r="4" fill="#7b8baf"></circle>
+  <path data-name="layer3" fill="#c3d6f9" d="M60 23.988l-46.001.001 5.992 24h32L60 23.988z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".1" d="M17.97 39.89l2.021 8.099h16.407L44 40.387 33.871 23.989 17.97 39.89z"></path>
+  <path data-name="layer2" d="M44 4.011a12 12 0 0 0-12 12 12.16 12.16 0 0 0 .105 1.518C33.178 27.4 44 40.387 44 40.387S54.822 27.4 55.895 17.53A12.176 12.176 0 0 0 56 16.011a12 12 0 0 0-12-12zm0 14a2 2 0 1 1 2-2 2 2 0 0 1-2 2z"
+  fill="#f27e7c"></path>
+  <path data-name="layer1" d="M42 16.011a2 2 0 0 1 2-2v-10a12 12 0 0 0-12 12 12.16 12.16 0 0 0 .105 1.518C33.178 27.4 44 40.387 44 40.387V18.011a2 2 0 0 1-2-2z"
+  fill="#ed5451"></path>
+</svg>

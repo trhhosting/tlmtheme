@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Currency</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  d="M0 2.5v38h62v-38z" fill="#72b292"></path>
+  <path data-name="opacity" d="M52.18 4.5H9.82A9.533 9.533 0 0 1 2 12.318v18.36A9.536 9.536 0 0 1 9.82 38.5H60V12.319A9.534 9.534 0 0 1 52.18 4.5z"
+  fill="#fff" opacity=".3"></path>
+  <circle data-name="layer2" cx="30.998" cy="21.5" r="8" fill="#72b292"></circle>
+  <path data-name="layer2" d="M15 22.5h-4a1 1 0 0 1 0-2h4a1 1 0 1 1 0 2zm36 0h-4a1 1 0 1 1 0-2h4a1 1 0 0 1 0 2z"
+  fill="#72b292"></path>
+  <path data-name="opacity" fill="#000064" opacity=".1" d="M48.698 40.498l-8.175-8.174-8.173 8.174h16.348z"></path>
+  <path data-name="layer1" d="M52 29.5c-6.627 0-12 1.794-12 4v24c0 2.209 5.373 4 12 4s12-1.79 12-4v-24c0-2.208-5.377-4-12-4z"
+  fill="#f7c98a"></path>
+  <path data-name="opacity" d="M52 44.5c-6.627 0-12-1.79-12-4v2c0 2.209 5.373 4 12 4s12-1.79 12-4v-2c0 2.21-5.377 4-12 4zm0 8c-6.627 0-12-1.79-12-4v2c0 2.209 5.373 4 12 4s12-1.79 12-4v-2c0 2.208-5.377 4-12 4z"
+  fill="#000064" opacity=".1"></path>
+  <ellipse data-name="opacity" cx="52" cy="33.5" rx="12" ry="4" fill="#fff"
+  opacity=".3"></ellipse>
+  <path data-name="opacity" d="M40 33.5c0-2.208 5.373-4 12-4-6.627 0-12 1.793-12 4v24c0 2.209 5.373 4 12 4v-24c-6.627 0-12-1.79-12-4z"
+  fill="#000064" opacity=".1"></path>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Invoice</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer3"
+  fill="#cce3ff" d="M48.001 6.984l-4-4H44l-3.999 4-4-4H36l-3.999 4-4-4H28l-3.999 4-4-4H20l-3.999 4-4-4H12v59l4-4 4 4h.001H20l4-4 4 4h.001H28l4-4 4 4h.001H36l4-4 4 4h.001H44l4-4 4 4v-59l-3.999 4z"></path>
+  <path data-name="layer2" d="M35 20.984H19a1 1 0 0 1 0-2h16a1 1 0 0 1 0 2zm0 15.999H19a1 1 0 0 1 0-2h16a1 1 0 0 1 0 2zm-4-8H19a1 1 0 0 1 0-2h12a1 1 0 0 1 0 2zm0 16.001H19a1 1 0 0 1 0-2h12a1 1 0 1 1 0 2z"
+  fill="#7b8baf"></path>
+  <path data-name="layer1" d="M45 20.984h-2a1 1 0 0 1 0-2h2a1 1 0 0 1 0 2zm0 15.999h-2a1 1 0 0 1 0-2h2a1 1 0 0 1 0 2zm0-8h-2a1 1 0 0 1 0-2h2a1 1 0 0 1 0 2zm0 16.001h-2a1 1 0 0 1 0-2h2a1 1 0 0 1 0 2z"
+  fill="#f27e7c"></path>
+</svg>

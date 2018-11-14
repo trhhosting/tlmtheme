@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Order Completed</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer6"
+  fill="#a7c5f2" d="M37.5 52.5H11.518L5.567 22.499h51.934L55.239 33.81 50.5 52.5h-13z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".1" d="M11.518 52.5H50.5l1.012-3.989L33.5 30.5 11.515 52.486l.003.014z"></path>
+  <path data-name="layer5" d="M7.566 23.5a.988.988 0 0 1-.667-.255 1 1 0 0 1-.077-1.413l17.934-20a1 1 0 0 1 1.489 1.336l-17.934 20a1 1 0 0 1-.745.332zm47.934 0a1 1 0 0 1-.744-.331l-18-20a1 1 0 1 1 1.486-1.337l18 20A1 1 0 0 1 55.5 23.5z"
+  fill="#7b8baf"></path>
+  <path data-name="layer4" d="M59.534 24h-56a1 1 0 1 1 0-2h56a1 1 0 1 1 0 2z"
+  fill="#c3d6f9"></path>
+  <path data-name="layer3" d="M33.5 30.5h28v11.768a22.38 22.38 0 0 1-14 20.232 22.377 22.377 0 0 1-14-20.232z"
+  fill="#ffdda4"></path>
+  <path data-name="layer2" d="M33.5 30.5v11.768a22.377 22.377 0 0 0 14 20.232v-32z"
+  fill="#f7c98a"></path>
+  <path data-name="layer1" d="M46.5 49.5a1 1 0 0 1-.707-.294l-5-5a1 1 0 0 1 1.414-1.414l4.293 4.294 8.293-8.293a1 1 0 1 1 1.414 1.413l-9 9a1 1 0 0 1-.707.294z"
+  fill="#556685"></path>
+</svg>

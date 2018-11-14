@@ -1,0 +1,69 @@
+<!--     *********     HEADER 3      *********      -->
+	<nav *ngFor="let c of data" class="navbar navbar-expand-lg navbar-transparent navbar-absolute">
+		<div class="container">
+			<a class="navbar-brand mb-0" [href]="c.menus[0].menuLink">{{c.menus[0].menuName}}</a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-bar"></span>
+				<span class="navbar-toggler-bar"></span>
+				<span class="navbar-toggler-bar"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarSupportedContent1">
+				<ul class="navbar-nav ml-auto">
+					<a [href]="c.menus[1].menuLink" class="btn btn-link btn-neutral">{{c.menus[1].menuName}}</a>
+					<a [href]="c.menus[2].menuLink" class="btn btn-link btn-neutral">{{c.menus[2].menuName}}</a>
+					<a [href]="c.menus[3].menuLink" class="btn btn-link btn-neutral">{{c.menus[3].menuName}}</a>
+				</ul>
+			</div>
+		</div>
+	</nav>
+	<div class="page-carousel">
+		<div class="filter"></div>
+		<div id="carouselIndicators" class="carousel slide" data-ride="carousel">
+			<ol id="ci-list" class="carousel-indicators">
+			</ol>
+			<template ngFor let-c [ngForOf]="data">
+				<div *ngFor="let ci of c.carousels" class="carousel-inner" role="listbox">
+					<div *ngIf="countTmp == ci.id" class="carousel-item active">
+						<div class="page-header" [style.background-image]="'url('+ ci.photo +')'">
+							<div class="filter"></div>
+							<div class="content-center">
+								<div class="container">
+									<div class="row">
+										<div class="col-md-6 text-left">
+											<h1 class="title">{{ci.title}}</h1>
+											<h5>{{ci.subTitle}}</h5>
+											<br />
+											<div class="buttons">
+												<a [href]="c.callToAction['buttonLink']" class="btn btn-danger btn-round  btn-lg">
+													{{c.callToAction['buttonText']}}
+												</a>
+												<a href="#pablo" class="btn btn-neutral btn-link btn-just-icon">
+													<i class="fa fa-twitter"></i>
+												</a>
+												<a href="#pablo" class="btn btn-neutral btn-link btn-just-icon">
+													<i class="fa fa-facebook-square"></i>
+												</a>
+												<a href="#pablo" class="btn btn-neutral btn-link btn-just-icon">
+													<i class="fa fa-get-pocket"></i>
+												</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</template>
+			<a class="left carousel-control carousel-control-prev" role="button" data-slide="prev" (click)="prev()">
+				<span class="fa fa-angle-left"></span>
+				<span class="sr-only">Previous</span>
+			</a>
+			<a class="right carousel-control carousel-control-next" role="button" (click)="next()" data-slide="next">
+				<span class="fa fa-angle-right"></span>
+				<span class="sr-only">Next</span>
+			</a>
+		</div>
+	</div>
+<!--     *********    END HEADER 3      *********      -->

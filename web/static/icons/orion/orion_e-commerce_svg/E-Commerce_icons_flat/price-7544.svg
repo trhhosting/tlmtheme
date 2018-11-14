@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Price</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer4"
+  fill="#a7c5f2" d="M38 53.001H12.018L6.067 22.999h51.934L55.739 34.31 51 53.001H38z"></path>
+  <path data-name="layer3" d="M8.066 24a.99.99 0 0 1-.667-.255 1 1 0 0 1-.077-1.413l17.934-20a1 1 0 0 1 1.489 1.335l-17.934 20a1 1 0 0 1-.745.333zM56 24a1 1 0 0 1-.744-.332l-18-20a1 1 0 0 1 1.486-1.338l18 20A1 1 0 0 1 56 24z"
+  fill="#7b8baf"></path>
+  <path data-name="layer2" d="M60 24H4a1 1 0 0 1 0-2h56a1 1 0 1 1 0 2z"
+  fill="#c3d6f9"></path>
+  <path data-name="layer1" d="M51 36a1 1 0 0 1-1-1v-4a1 1 0 0 1 2 0v4a1 1 0 0 1-1 1zm0 26a1 1 0 0 1-1-1v-4a1 1 0 0 1 2 0v4a1 1 0 0 1-1 1z"
+  fill="#556685"></path>
+  <path data-name="layer1" d="M51 58c-5.276 0-7.588-3.554-7.993-6.879a1 1 0 1 1 1.985-.242C45.18 52.419 46.14 56 51 56c4.252 0 7-1.57 7-4 0-2.3-1.9-3.859-6.563-5.373C45.82 44.8 43 43.886 43 40s4.122-6 8-6c4.289 0 6.818 1.818 7.96 5.719a1 1 0 0 1-1.92.563C56.15 37.24 54.4 36 51 36c-2.949 0-6 1.5-6 4 0 2.344 1.347 2.87 7.055 4.724C55.984 46 60 47.863 60 52c0 3.645-3.533 6-9 6z"
+  fill="#556685"></path>
+</svg>

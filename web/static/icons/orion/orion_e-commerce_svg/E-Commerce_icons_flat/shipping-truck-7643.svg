@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Shipping Truck</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <circle data-name="layer6"
+  cx="14" cy="47.998" r="6" fill="#8fa9d8"></circle>
+  <circle data-name="layer6" cx="52" cy="47.998" r="6" fill="#8fa9d8"></circle>
+  <path data-name="layer5" d="M42 40H2v8h6a6 6 0 0 1 12 0h22z"
+  fill="#7b8baf"></path>
+  <path data-name="layer4" fill="#f27e7c" d="M2 20.003h15.99v19.995H2z"></path>
+  <path data-name="layer3" fill="#78d1f4" d="M17.99 39.998V10h23.994v30l-23.994-.002z"></path>
+  <path data-name="layer2" d="M52 18H42v30h4a6 6 0 0 1 12 0h4V32z"
+  fill="#d2ddf0"></path>
+  <path data-name="layer1" fill="#8adfff" d="M50.969 20H44v9.994h14.11L50.969 20z"></path>
+  <path data-name="opacity" fill="#fff" opacity=".4" d="M44 20l14.11 9.994L50.969 20H44z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".15" d="M2 39.998h15.99V20.002L2 39.998z"></path>
+</svg>

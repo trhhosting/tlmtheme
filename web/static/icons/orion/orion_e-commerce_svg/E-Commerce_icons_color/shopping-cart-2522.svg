@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Shopping Cart</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <circle data-name="layer2"
+  cx="23" cy="56" r="4" fill="#a6b1c9"></circle>
+  <circle data-name="layer2" cx="49" cy="56" r="4" fill="#a6b1c9"></circle>
+  <path data-name="layer1" d="M19 48a4 4 0 0 1 4-4h30l8-24H15z"
+  fill="#78d1f4"></path>
+  <path data-name="opacity" d="M25 40l-3.3-20H15l4 28a4 4 0 0 1 4-4h30l1.3-4z"
+  fill="#000064" opacity=".15"></path>
+  <circle data-name="stroke" cx="23" cy="56" r="4" fill="none" stroke="#2e4369"
+  stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+  <circle data-name="stroke" cx="49" cy="56" r="4" fill="none"
+  stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+  <path data-name="stroke" d="M3 4h8l4 16h46l-8 24H23a4 4 0 0 0-4 4 4 4 0 0 0 4 4h32"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></path>
+</svg>

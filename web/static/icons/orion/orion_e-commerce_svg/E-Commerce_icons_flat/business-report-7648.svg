@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Business Report</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer3"
+  d="M32 59.293a1 1 0 0 1-1-1V42.006a1 1 0 0 1 2 0v16.287a1 1 0 0 1-1 1z"
+  fill="#8fa9d8"></path>
+  <path data-name="opacity" d="M32 59.293a1 1 0 0 1-1-1V42.006a1 1 0 0 1 2 0v16.287a1 1 0 0 1-1 1z"
+  fill="#000064" opacity=".15"></path>
+  <path data-name="layer4" fill="#cce3ff" d="M5.999 4h51.998v38.002H5.999z"></path>
+  <path data-name="layer3" d="M22 61a1 1 0 0 1-.708-1.707l10-10a1 1 0 1 1 1.415 1.407l-10 10A.993.993 0 0 1 22 61z"
+  fill="#8fa9d8"></path>
+  <path data-name="layer3" d="M42 61c-.256 0-.512-.1-.707 0l-10-10a1.375 1.375 0 0 1 0-1.706 1 1 0 0 1 1.415 0l10 10A1 1 0 0 1 42 61z"
+  fill="#8fa9d8"></path>
+  <path data-name="layer2" d="M48.638 13.231a1 1 0 0 0-1.408.128l-9.3 11.159-3.224-3.226a.988.988 0 0 0-.777-.292 1 1 0 0 0-.73.4l-5.03 6.706-5.274-10.553a1 1 0 0 0-1.6-.259L15.583 23H6v2h10a1 1 0 0 0 .707-.293l5.02-5.02 5.373 10.76a1.006 1.006 0 0 0 .806.55L28 31a1 1 0 0 0 .8-.4l5.31-7.078 3.183 3.186a1 1 0 0 0 1.476-.066l10-12a1 1 0 0 0-.131-1.411z"
+  fill="#f27e7c"></path>
+  <path data-name="layer2" d="M48.638 13.231a1 1 0 0 0-1.408.128l-9.3 11.159-3.224-3.226a.988.988 0 0 0-.777-.292 1 1 0 0 0-.73.4l-5.03 6.706-5.274-10.553a1 1 0 0 0-1.6-.259L15.583 23H6v2h10a1 1 0 0 0 .707-.293l5.02-5.02 5.373 10.76a1.006 1.006 0 0 0 .806.55L28 31a1 1 0 0 0 .8-.4l5.31-7.078 3.183 3.186a1 1 0 0 0 1.476-.066l10-12a1 1 0 0 0-.131-1.411z"
+  fill="#f27e7c"></path>
+  <path d="M38.043 27a1 1 0 0 1-.753-.291l-3.183-3.186L28.8 30.6a1 1 0 0 1-.8.4h-.09a1.006 1.006 0 0 1-.806-.55l-5.378-10.761-5.02 5.02A1 1 0 0 1 16 25H6v17h19.98l12.784-15.36a1 1 0 0 1-.721.36z"
+  fill="#000064" opacity=".1"></path>
+  <path data-name="layer1" d="M59 43.006H5a1 1 0 0 1 0-2h54a1 1 0 0 1 0 2z"
+  fill="#e9f4ff"></path>
+</svg>

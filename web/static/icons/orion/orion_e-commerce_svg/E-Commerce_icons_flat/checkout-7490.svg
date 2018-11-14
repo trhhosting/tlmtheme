@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Checkout</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer4"
+  d="M48.707 11.293l-10-10a.99.99 0 0 0-.325-.217 1 1 0 0 0-.764 0 .99.99 0 0 0-.325.217l-10 10a1 1 0 0 0 1.414 1.414L37 4.414V26a1 1 0 0 0 2 0V4.414l8.293 8.292a1 1 0 0 0 1.414-1.414z"
+  fill="#556685"></path>
+  <path data-name="layer3" d="M17.007 27.032a1 1 0 0 1-.969-.758L12.219 11H3a1 1 0 0 1 0-2h10a1 1 0 0 1 .97.758l4.008 16.032a1 1 0 0 1-.971 1.243z"
+  fill="#71c3f3"></path>
+  <path data-name="layer2" fill="#78d1f4" d="M22 50h32l8-24H16.008L22 50z"></path>
+  <circle data-name="layer1" cx="24" cy="58" r="4" fill="#7b8baf"></circle>
+  <circle data-name="layer1" cx="50" cy="58" r="4" fill="#7b8baf"></circle>
+</svg>

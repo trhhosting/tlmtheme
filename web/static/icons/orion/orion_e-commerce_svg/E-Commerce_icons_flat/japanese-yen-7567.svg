@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Japanese Yen</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  fill="#a7c5f2" d="M50.666 6.562l-4.932-3.416-13.736 19.837L18.267 3.146l-4.933 3.415 15.432 22.293H21v6h8v5h-8v6h8v15h6v-15h8v-6h-8v-5h8v-6h-7.77L50.666 6.562z"></path>
+  <path data-name="layer1" fill="#c3d6f9" d="M21 28.854h22v6H21z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".1" d="M29 39.854l6-5h-6v5zm0 11l6-5h-6v5z"></path>
+  <path data-name="layer1" fill="#c3d6f9" d="M21 39.854h22v6H21z"></path>
+</svg>

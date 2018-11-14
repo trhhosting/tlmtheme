@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Purse</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer3"
+  d="M56 22H8c0 8-6 12-6 26a12 12 0 0 0 12 12h36a12 12 0 0 0 12-12c0-14-6-14-6-26z"
+  fill="#f27e7c"></path>
+  <path data-name="layer2" d="M36 7a4 4 0 0 0-4 4v4h4a4 4 0 0 0 0-8z"
+  fill="#a7c5f2"></path>
+  <path data-name="layer2" d="M28.016 7a4 4 0 0 1 4 4v4h-4a4 4 0 0 1 0-8z"
+  fill="#a7c5f2"></path>
+  <path data-name="opacity" d="M28.016 7a4 4 0 0 1 4 4v4h-4a4 4 0 0 1 0-8z"
+  fill="#000064" opacity=".1"></path>
+  <path data-name="layer1" d="M61 21.62V22H3v-3a4 4 0 0 1 4-4h50a4 4 0 0 1 4 4z"
+  fill="#c3d6f9"></path>
+  <path data-name="opacity" d="M14 60h4l38-38H8c0 8-6 12-6 26a12 12 0 0 0 12 12z"
+  fill="#000064" opacity=".1"></path>
+</svg>

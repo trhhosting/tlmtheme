@@ -1,0 +1,13 @@
+/*
+* Legion Market v1
+* Copyright 2018, Legion Market
+* www.legionmarket.com
+* Free to use under the GPLv3 license.
+*/
+
+.tlm-header-bar {
+  @media (min-width: 1151px) {
+    visibility: hidden;
+    z-index:  -1;
+  }
+}

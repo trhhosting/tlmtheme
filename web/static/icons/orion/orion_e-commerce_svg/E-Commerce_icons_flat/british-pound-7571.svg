@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>British Pound</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  d="M25.48 48.11l-.011-11.235H47.55v-6H25.462l-.012-12.493a10.3 10.3 0 0 1 10.5-10.254 10.591 10.591 0 0 1 10.5 10.747h6c0-10-7.4-16.749-16.5-16.749a16.418 16.418 0 0 0-16.5 16.383l.012 12.366H11.55v6h7.919l.011 11.237c0 5.591-2.176 7.763-7.762 7.763h-.168v6h36v-6H23.729a15.721 15.721 0 0 0 1.751-7.765z"
+  fill="#a7c5f2"></path>
+  <path data-name="layer1" fill="#c3d6f9" d="M11.55 30.875h36v6h-36z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".1" d="M19.474 42.869l5.994-5.994h-5.994v5.994z"></path>
+</svg>

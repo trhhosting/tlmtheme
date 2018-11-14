@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Ticket</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer1"
+  d="M54.954 18.673a6.872 6.872 0 0 1-9.626-9.624L38.282 2 2 38.281l7.049 7.046a6.872 6.872 0 0 1 9.625 9.625L25.723 62 62 25.721z"
+  fill="#f7c98a"></path>
+  <path data-name="layer2" d="M30.606 45.952a2.96 2.96 0 0 1-4.185 0l-8.371-8.37a2.964 2.964 0 0 1 0-4.188L33.4 18.048a2.954 2.954 0 0 1 4.185 0l8.371 8.369a2.962 2.962 0 0 1 0 4.188z"
+  fill="#ffdda4"></path>
+  <path data-name="opacity" d="M45.956 18.046a6.887 6.887 0 0 1-.628-9L38.282 2 2 38.281l7.049 7.046a6.885 6.885 0 0 1 9 .626z"
+  fill="#000064" opacity=".15"></path>
+  <path data-name="layer1" d="M41.769 22.234l-4.186-4.186a2.954 2.954 0 0 0-4.185 0L18.049 33.394a2.964 2.964 0 0 0 0 4.188l4.186 4.186z"
+  fill="#f7c98a"></path>
+</svg>

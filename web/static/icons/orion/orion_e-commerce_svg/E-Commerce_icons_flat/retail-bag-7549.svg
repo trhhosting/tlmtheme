@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Retail Bag</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  fill="#f27e7c" d="M4 14h56v48H4zm0 0V2h56.014v12"></path>
+  <path data-name="opacity" fill="#000064" opacity=".15" d="M4 14V2h56.014v12"></path>
+  <path data-name="layer2" fill="#f27e7c" d="M4.191 2.064L14 7.969 4 14M59.822 2.064l-9.813 5.905L60.014 14"></path>
+  <path data-name="opacity" fill="#000064" opacity=".3" d="M4.191 2.064L14 7.969 4 14M59.822 2.064l-9.813 5.905L60.014 14"></path>
+  <path data-name="layer1" d="M32 35a11.013 11.013 0 0 1-11-11 1 1 0 0 1 2 0 9 9 0 0 0 18.006 0 1 1 0 0 1 2 0A11.015 11.015 0 0 1 32 35z"
+  fill="#e6edf7"></path>
+</svg>

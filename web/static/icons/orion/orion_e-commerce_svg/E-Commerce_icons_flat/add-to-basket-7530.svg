@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Add to Basket</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <circle data-name="layer5"
+  cx="46" cy="46" r="16" fill="#49bcff"></circle>
+  <path data-name="layer4" d="M52.71 43.3l-6.011-6h-.005a.993.993 0 0 0-.319-.212 1.011 1.011 0 0 0-.366-.088h-.017a1.006 1.006 0 0 0-.382.077.994.994 0 0 0-.319.212h-.005l-6.009 6a1 1 0 1 0 1.413 1.415l4.3-4.3V54a1 1 0 0 0 2 0V40.412l4.305 4.3A1 1 0 0 0 52.71 43.3z"
+  fill="#fff"></path>
+  <path data-name="layer3" d="M46.033 29.939a15.906 15.906 0 0 1 9.728 3.318l.009-.008 2.263-11.311H6.1l5.951 30h19.155a15.987 15.987 0 0 1 14.828-22z"
+  fill="#a7c5f2"></path>
+  <path data-name="layer2" d="M8.1 22.938a1 1 0 0 1-.744-1.668l17.935-20a1 1 0 0 1 1.489 1.336l-17.934 20a1 1 0 0 1-.746.332zm47.933 0a.993.993 0 0 1-.743-.331l-18-20a1 1 0 0 1 1.486-1.337l18 20a1 1 0 0 1-.743 1.669z"
+  fill="#7b8baf"></path>
+  <path data-name="layer1" d="M60.033 22.938h-56a1 1 0 0 1 0-2h56a1 1 0 0 1 0 2z"
+  fill="#c3d6f9"></path>
+  <path data-name="opacity" d="M31.2 51.939h.006a15.976 15.976 0 0 1 3.515-17.31l-17.316 17.31z"
+  fill="#000064" opacity=".1"></path>
+</svg>

@@ -1,0 +1,78 @@
+<!--     *********    PRICING 4     *********      -->
+<div *ngFor="let c of data" class="pricing-4 section section-dark">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 ml-auto mr-auto text-center">
+				<h2 class="title">{{c.title}}</h2>
+				<h5 class="description">{{c.subTitle}}</h5>
+			</div>
+		</div>
+		<div class="space-top"></div>
+		<div class="row">
+			<div class="col-md-3">
+				<div class="card card-pricing card-plain">
+					<div class="card-body">
+						<h6 class="card-category text-success">{{c.card1.title}}</h6>
+						<h1 class="card-title">{{c.card1.price['USD']}}</h1>
+						<ul *ngFor="let dsi of c.card1.descItems" class="text-white">
+							<li><i class="fa fa-check" aria-hidden="true"></i> {{dsi}}</li>
+						</ul>
+						<a [href]="c.card1.buttons['buttonLink']" class="btn btn-outline-neutral btn-round">{{c.card1.buttons['buttonText']}}</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="card card-pricing">
+					<div class="card-body">
+						<div class="card-body">
+							<h6 class="card-category text-success">{{c.card2.title}}</h6>
+							<h1 class="card-title">{{c.card2.price['USD']}}</h1>
+							<ul *ngFor="let dsi of c.card2.descItems" class="text-white">
+								<li class="text-dark">
+									<i class="fa fa-check" aria-hidden="true"></i>
+									 {{dsi}}
+								</li>
+							</ul>
+							<a [href]="c.card2.buttons['buttonLink']" class="btn btn-outline-neutral btn-round">{{c.card2.buttons['buttonText']}}</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="card card-pricing card-plain">
+					<div class="card-body">
+						<div class="card-body">
+							<h6 class="card-category text-success">{{c.card3.title}}</h6>
+							<h1 class="card-title">{{c.card3.price['USD']}}</h1>
+							<ul *ngFor="let dsi of c.card3.descItems" class="text-white">
+								<li>
+									<i class="fa fa-check" aria-hidden="true"></i>
+									{{dsi}}
+								</li>
+							</ul>
+							<a [href]="c.card3.buttons['buttonLink']" class="btn btn-outline-neutral btn-round">{{c.card3.buttons['buttonText']}}</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="card card-pricing card-plain">
+					<div class="card-body">
+						<div class="card-body">
+							<h6 class="card-category text-success">{{c.card4.title}}</h6>
+							<h1 class="card-title">{{c.card4.price['USD']}}</h1>
+							<ul *ngFor="let dsi of c.card4.descItems" class="text-white">
+								<li>
+									<i class="fa fa-check" aria-hidden="true"></i>
+									 {{dsi}}
+								</li>
+							</ul>
+							<a [href]="c.card4.buttons['buttonLink']" class="btn btn-outline-neutral btn-round">{{c.card4.buttons['buttonText']}}</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--     *********    END PRICING 4      *********      -->

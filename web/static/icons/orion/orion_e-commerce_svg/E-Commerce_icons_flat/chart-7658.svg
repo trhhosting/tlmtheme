@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Chart</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer3"
+  d="M32 7C15.432 7 2 15.955 2 27v10c0 11.046 13.432 20 30 20a41 41 0 0 0 17-3.523V43l-9-8.471L32 27h1V7.017C32.667 7.01 32.335 7 32 7z"
+  fill="#4db9e8"></path>
+  <path data-name="layer2" d="M32 27l8 7.529L49 43v10.478C56.851 49.87 62 43.837 62 37V27z"
+  fill="#92d5b5"></path>
+  <path data-name="opacity" d="M49 43.478A41 41 0 0 1 32 47C15.432 47 2 38.047 2 27v10c0 11.046 13.432 20 30 20a41 41 0 0 0 17-3.523C56.851 49.87 62 43.837 62 37V27c0 6.838-5.149 12.87-13 16.478z"
+  fill="#000064" opacity=".15"></path>
+  <path data-name="layer1" d="M32 7.017V27h30C62 16.179 49 7.017 32 7.017z"
+  fill="#f27e7c"></path>
+</svg>

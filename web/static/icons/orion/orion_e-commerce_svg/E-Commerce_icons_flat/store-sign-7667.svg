@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Store Sign</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer3"
+  d="M8 26.948a1 1 0 0 1-.675-1.738l24-21.948a1 1 0 0 1 1.35 1.477l-24 21.948a1 1 0 0 1-.675.261z"
+  fill="#a2b8df"></path>
+  <path data-name="opacity" d="M8 26.948a1 1 0 0 1-.675-1.738l24-21.948a1 1 0 0 1 1.35 1.477l-24 21.948a1 1 0 0 1-.675.261z"
+  fill="#000064" opacity=".15"></path>
+  <path data-name="layer3" d="M56 27a1 1 0 0 1-.675-.263l-24-22a1 1 0 1 1 1.352-1.475l24 22A1 1 0 0 1 56 27z"
+  fill="#a2b8df"></path>
+  <rect data-name="layer2" x="2" y="24.998" width="60" height="36"
+  rx="3" ry="3" fill="#f27e7c"></rect>
+  <path data-name="layer1" fill="#e9f4ff" d="M10.002 33H54v19.998H10.002z"></path>
+  <path data-name="opacity" d="M33 25H5a3 3 0 0 0-3 3v30a3 3 0 0 0 3 3h28z"
+  fill="#000064" opacity=".15"></path>
+</svg>

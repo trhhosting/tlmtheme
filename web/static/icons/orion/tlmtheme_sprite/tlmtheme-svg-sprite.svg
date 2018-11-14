@@ -1,0 +1,169 @@
+<svg width="0" height="0" class="hidden">
+    <symbol viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" id="buy-coffee">
+    <title>Hot Coffee</title>
+    <desc>A line styled icon from Orion Icon Library.</desc>
+    <path stroke-width="2"
+    stroke-linejoin="round" stroke-linecap="round" stroke="#202020" fill="none"
+    d="M52 17.965v22.857c0 9.467-9.582 17.143-19.049 17.143h-1.9C21.58 57.965 12 50.289 12 40.822V17.965zM52 22h1.016A8.984 8.984 0 0 1 62 30.982a8.982 8.982 0 0 1-8.982 8.982H52"
+    data-name="layer2" style="stroke:var(--layer1, #202020)"></path>
+    <path d="M32 13.998v-12m-12.002 12V8.002m24.004 5.996V8.002M62 60a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2 2 2 0 0 1 2-2h56a2 2 0 0 1 2 2z"
+    stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#202020"
+    fill="none" data-name="layer1" style="stroke:var(--layer1, #202020)"></path>
+    </symbol>
+    <symbol viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" id="buy-coffee-color">
+    <title>Hot Coffee</title>
+    <desc>A color styled icon from Orion Icon Library.</desc>
+    <path fill="#f7d8bc"
+    d="M52 18.947V40.8c0 9.467-9.582 17.144-19.049 17.144h-1.9C21.58 57.947 12 50.27 12 40.8V18.947z"
+    data-name="layer1" style="fill:var(--layer1, #f7d8bc)"></path>
+    <path opacity=".5" fill="#fff" d="M41.994 18.947v26.86a15.627 15.627 0 0 1-4.287 10.447C44.023 53.49 49 47.621 49 40.8V18.947z"
+    data-name="opacity"></path>
+    <path opacity=".18" fill="#101129" d="M18 42.8V18.947h-6V40.8c0 8.475 7.676 15.494 16.075 16.879C22.35 54.727 18 49.178 18 42.8z"
+    data-name="opacity"></path>
+    <path fill="#f7d8bc" d="M62 59.984a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2 2 2 0 0 1 2-2h56a2 2 0 0 1 2 2z"
+    data-name="layer1" style="fill:var(--layer1, #f7d8bc)"></path>
+    <path stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+    stroke="#2f446a" fill="none" d="M52 18.965v21.857c0 9.467-9.582 17.143-19.049 17.143h-1.9C21.58 57.965 12 50.289 12 40.822V18.965zM52 23h1.016A8.984 8.984 0 0 1 62 31.982a8.982 8.982 0 0 1-8.982 8.982H52M32 14.998v-13m-12.002 13V8.002m24.004 6.996V8.002M62 60a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2 2 2 0 0 1 2-2h56a2 2 0 0 1 2 2z"
+    data-name="stroke" style="stroke:var(--stroke, #2f446a)"></path>
+    </symbol>
+    <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="buy-meal">
+    <title>Pizza</title>
+    <desc>A color styled icon from Orion Icon Library.</desc>
+    <path data-name="layer1"
+    d="M49.9 27.9l-5.4 2.5A18 18 0 1 1 28.1 20v-6a24.1 24.1 0 1 0 21.8 13.9z"
+    fill="#f6b36d" style="fill:var(--layer1, #f6b36d)"></path>
+    <path data-name="opacity" d="M29.1 60A24 24 0 0 1 7.2 26.3a24 24 0 1 0 42.9 21.4 24 24 0 0 1-21 12.3z"
+    fill="#101129" opacity=".18"></path>
+    <path data-name="layer2" d="M10.1 38a18 18 0 1 0 34.3-7.6L28.1 38V20a18 18 0 0 0-18 18z"
+    fill="#faf287" style="fill:var(--layer2, #faf287)"></path>
+    <circle data-name="layer3" cx="21.1" cy="35" r="2" fill="#f04848"
+    style="fill:var(--layer3, #f04848)"></circle>
+    <circle data-name="layer3" cx="25.1" cy="47" r="1" fill="#f04848"
+    style="fill:var(--layer3, #f04848)"></circle>
+    <circle data-name="layer3" cx="35.1" cy="43" r="3" fill="#f04848"
+    style="fill:var(--layer3, #f04848)"></circle>
+    <path data-name="layer2" d="M38.1 7h-.8l-3.2 21 20.7-9.8A18 18 0 0 0 38.1 7z"
+    fill="#faf287" style="fill:var(--layer2, #faf287)"></path>
+    <path data-name="layer1" d="M38.1 2l-.8 5h.8a18 18 0 0 1 16.7 11.2l5-2.4A24 24 0 0 0 38.1 2z"
+    fill="#f6b36d" style="fill:var(--layer1, #f6b36d)"></path>
+    <path data-name="stroke" d="M49.9 27.9l-5.4 2.5A18 18 0 1 1 28.1 20v-6a24.1 24.1 0 1 0 21.8 13.9z"
+    fill="none" stroke="#2f446a" stroke-linecap="round" stroke-linejoin="round"
+    stroke-width="2" style="stroke:var(--stroke, #2f446a)"></path>
+    <path data-name="stroke" d="M10.1 38a18 18 0 1 0 34.3-7.6L28.1 38V20a18 18 0 0 0-18 18z"
+    fill="none" stroke="#2f446a" stroke-linecap="round" stroke-linejoin="round"
+    stroke-width="2" style="stroke:var(--stroke, #2f446a)"></path>
+    <circle data-name="stroke" cx="21.1" cy="35" r="2" fill="none"
+    stroke="#2f446a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+    style="stroke:var(--stroke, #2f446a)"></circle>
+    <circle data-name="stroke" cx="25.1" cy="47" r="1" fill="none"
+    stroke="#2f446a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+    style="stroke:var(--stroke, #2f446a)"></circle>
+    <circle data-name="stroke" cx="35.1" cy="43" r="3" fill="none"
+    stroke="#2f446a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+    style="stroke:var(--stroke, #2f446a)"></circle>
+    <path data-name="stroke" d="M38.1 7h-.8l-3.2 21 20.7-9.8A18 18 0 0 0 38.1 7z"
+    fill="none" stroke="#2f446a" stroke-linecap="round" stroke-linejoin="round"
+    stroke-width="2" style="stroke:var(--stroke, #2f446a)"></path>
+    <path data-name="stroke" d="M38.1 2l-.8 5h.8a18 18 0 0 1 16.7 11.2l5-2.4A24 24 0 0 0 38.1 2z"
+    fill="none" stroke="#2f446a" stroke-linecap="round" stroke-linejoin="round"
+    stroke-width="2" style="stroke:var(--stroke, #2f446a)"></path>
+    </symbol>
+    <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="buy-meal-color">
+    <title>Pizza</title>
+    <desc>A line styled icon from Orion Icon Library.</desc>
+    <path data-name="layer2"
+    d="M28.1 20v-6a24.1 24.1 0 1 0 21.8 13.9l-5.4 2.5m10.3-12.2l5-2.4A24 24 0 0 0 38.1 2l-.8 5"
+    fill="none" stroke="#202020" stroke-linecap="round" stroke-linejoin="round"
+    stroke-width="2" style="stroke:var(--layer1, #202020)"></path>
+    <path data-name="layer1" d="M10.1 38a18 18 0 1 0 34.3-7.6L28.1 38V20a18 18 0 0 0-18 18z"
+    fill="none" stroke="#202020" stroke-linecap="round" stroke-linejoin="round"
+    stroke-width="2" style="stroke:var(--layer1, #202020)"></path>
+    <circle data-name="layer1" cx="21.1" cy="35" r="2" fill="none"
+    stroke="#202020" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+    style="stroke:var(--layer1, #202020)"></circle>
+    <circle data-name="layer1" cx="25.1" cy="47" r="1" fill="none"
+    stroke="#202020" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+    style="stroke:var(--layer1, #202020)"></circle>
+    <circle data-name="layer1" cx="35.1" cy="43" r="3" fill="none"
+    stroke="#202020" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+    style="stroke:var(--layer1, #202020)"></circle>
+    <path data-name="layer1" d="M38.1 7h-.8l-3.2 21 20.7-9.8A18 18 0 0 0 38.1 7z"
+    fill="none" stroke="#202020" stroke-linecap="round" stroke-linejoin="round"
+    stroke-width="2" style="stroke:var(--layer1, #202020)"></path>
+    </symbol>
+    <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="dinner-1">
+    <title>Dinner</title>
+    <desc>A color styled icon from Orion Icon Library.</desc>
+    <path data-name="layer3"
+    d="M61.7 34.2V48a2 2 0 0 1-2 2 2 2 0 0 1-2-2V34.1" fill="#f05a41" style="fill:var(--layer3, #f05a41)"></path>
+    <path data-name="layer2" d="M61.7 34.2V12a6.3 6.3 0 0 0-6.3 6.3V31a3.2 3.2 0 0 0 3.2 3.2zm-50.5-9.5L10.5 12H2.9l-.6 12.7a3.5 3.5 0 0 0 2.4 3.5V48a2 2 0 1 0 4 0V28.1a3.5 3.5 0 0 0 2.5-3.4z"
+    fill="#bacae8" style="fill:var(--layer2, #bacae8)"></path>
+    <circle data-name="layer1" cx="32.7" cy="33" r="19" fill="#dde5f4"
+    style="fill:var(--layer1, #dde5f4)"></circle>
+    <path data-name="opacity" d="M21.7 33a11 11 0 0 1 1.9-6.2 11 11 0 1 0 15.1 15.4 11 11 0 0 1-17-9.2z"
+    fill="#fff" opacity=".5"></path>
+    <path data-name="opacity" d="M32.7 22a11 11 0 0 0-9.1 4.9 11 11 0 0 1 15.3 15.2A11 11 0 0 0 32.7 22z"
+    fill="#101129" opacity=".25"></path>
+    <circle data-name="stroke" cx="32.7" cy="33" r="19" fill="none"
+    stroke="#2f446a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+    style="stroke:var(--stroke, #2f446a)"></circle>
+    <circle data-name="stroke" cx="32.7" cy="33" r="11" fill="none"
+    stroke="#2f446a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+    style="stroke:var(--stroke, #2f446a)"></circle>
+    <path data-name="stroke" d="M61.7 34.2V48a2 2 0 0 1-2 2 2 2 0 0 1-2-2V34.1M6.7 12v9.5"
+    fill="none" stroke="#2f446a" stroke-linecap="round" stroke-linejoin="round"
+    stroke-width="2" style="stroke:var(--stroke, #2f446a)"></path>
+    <path data-name="stroke" d="M61.7 34.2V12a6.3 6.3 0 0 0-6.3 6.3V31a3.2 3.2 0 0 0 3.2 3.2zm-50.5-9.5L10.5 12H2.9l-.6 12.7a3.5 3.5 0 0 0 2.4 3.5V48a2 2 0 1 0 4 0V28.1a3.5 3.5 0 0 0 2.5-3.4z"
+    fill="none" stroke="#2f446a" stroke-linecap="round" stroke-linejoin="round"
+    stroke-width="2" style="stroke:var(--stroke, #2f446a)"></path>
+    </symbol>
+    <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="buy-groceries">
+    <title>Shopping Trolley</title>
+    <desc>A line styled icon from Orion Icon Library.</desc>
+    <path data-name="layer2"
+    fill="none" stroke="#202020" stroke-miterlimit="10" stroke-width="2" d="M18 23.5l10-10 10 10m8 0v-10h12v10"
+    stroke-linejoin="round" stroke-linecap="round" style="stroke:var(--layer1, #202020)"></path>
+    <path data-name="layer2" fill="none" stroke="#202020" stroke-miterlimit="10"
+    stroke-width="2" d="M36 21.5l7-17 7 3-2.4 6m-1.6 4l-2.4 6" stroke-linejoin="round"
+    stroke-linecap="round" style="stroke:var(--layer1, #202020)"></path>
+    <path data-name="layer1" fill="none" stroke="#202020" stroke-miterlimit="10"
+    stroke-width="2" d="M2 7.5h10l10 40h32l8-24H16" stroke-linejoin="round"
+    stroke-linecap="round" style="stroke:var(--layer1, #202020)"></path>
+    <circle data-name="layer1" cx="24" cy="55.5" r="4" fill="none"
+    stroke="#202020" stroke-miterlimit="10" stroke-width="2" stroke-linejoin="round"
+    stroke-linecap="round" style="stroke:var(--layer1, #202020)"></circle>
+    <circle data-name="layer1" cx="50" cy="55.5" r="4" fill="none"
+    stroke="#202020" stroke-miterlimit="10" stroke-width="2" stroke-linejoin="round"
+    stroke-linecap="round" style="stroke:var(--layer1, #202020)"></circle>
+    </symbol>
+    <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="buy-groceries-color">
+    <title>Shopping Trolley</title>
+    <desc>A color styled icon from Orion Icon Library.</desc>
+    <path data-name="layer4"
+    fill="#f27e7c" d="M18 23.5l10-10 10 10" style="fill:var(--layer4, #f27e7c)"></path>
+    <path data-name="layer3" fill="#78d1f4" d="M36 21.5l7-17 7 3-6 16h-7l-1-2zm-14 26h32l8-24H16l6 24z"
+    style="fill:var(--layer3, #78d1f4)"></path>
+    <path data-name="opacity" fill="#000064" opacity=".15" d="M28 43.5l-5-20h-7l6 24h32l1.3-4H28z"></path>
+    <circle data-name="layer2" cx="24" cy="55.5" r="4" fill="#a6b1c9"
+    style="fill:var(--layer2, #a6b1c9)"></circle>
+    <circle data-name="layer2" cx="50" cy="55.5" r="4" fill="#a6b1c9"
+    style="fill:var(--layer2, #a6b1c9)"></circle>
+    <path data-name="layer1" fill="#44d88d" d="M46 23.5v-10h12v10"
+    style="fill:var(--layer1, #44d88d)"></path>
+    <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+    stroke-linejoin="round" stroke-width="2" d="M18 23.5l10-10 10 10m8 0v-10h12v10"
+    style="stroke:var(--stroke, #2e4369)"></path>
+    <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+    stroke-linejoin="round" stroke-width="2" d="M36 21.5l7-17 7 3-2.4 6m-1.6 4l-2.4 6"
+    style="stroke:var(--stroke, #2e4369)"></path>
+    <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+    stroke-linejoin="round" stroke-width="2" d="M2 7.5h10l10 40h32l8-24H16"
+    style="stroke:var(--stroke, #2e4369)"></path>
+    <circle data-name="stroke" cx="24" cy="55.5" r="4" fill="none"
+    stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+    style="stroke:var(--stroke, #2e4369)"></circle>
+    <circle data-name="stroke" cx="50" cy="55.5" r="4" fill="none"
+    stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+    style="stroke:var(--stroke, #2e4369)"></circle>
+    </symbol>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Settings</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer1"
+  d="M13 24.708a1 1 0 0 1-.97-.759L8.211 8.5H3a1 1 0 0 1 0-2h5.993a1 1 0 0 1 .971.761l4.007 16.208a1 1 0 0 1-.729 1.21 1.047 1.047 0 0 1-.242.029z"
+  fill="#8fa9d8"></path>
+  <circle data-name="layer2" cx="19.994" cy="55.5" r="4" fill="#7b8baf"></circle>
+  <circle data-name="layer2" cx="45.994" cy="55.5" r="4" fill="#7b8baf"></circle>
+  <path data-name="layer3" fill="#c3d6f9" d="M58.002 23.499l-46.001.001 5.993 24.001h32l8.008-24.002z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".1" d="M58.002 23.499H31.843l-.162.036-15.741 15.74 2.054 8.226h32l8.008-24.002z"></path>
+  <path data-name="layer2" d="M58.611 21.582A11.863 11.863 0 0 0 58.8 19.5a12 12 0 0 0-.223-2.254l3.086-1.781-4-6.93-3.133 1.809A11.083 11.083 0 0 0 51 8.2V4.5h-8v3.7a13.008 13.008 0 0 0-3.9 2.117l-3.082-1.782-4 6.93 3.01 1.735a11.584 11.584 0 0 0-.034 4.422l-3.313 1.911 4 6.929 3.281-1.9A12.964 12.964 0 0 0 43 30.8v3.7h8v-3.7a11.225 11.225 0 0 0 3.672-2.261L58 30.464l4-6.929zM47 24.5a5 5 0 1 1 5-5 5 5 0 0 1-5 5z"
+  fill="#7b8baf"></path>
+  <path data-name="layer1" d="M46.84 13.5a6 6 0 1 0 6 6 6 6 0 0 0-6-6m0 10a4 4 0 1 1 4-4 4 4 0 0 1-4 4"
+  fill="#8fa9d8"></path>
+</svg>

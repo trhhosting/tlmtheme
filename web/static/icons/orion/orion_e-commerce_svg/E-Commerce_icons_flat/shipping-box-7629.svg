@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Shipping Box</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer3"
+  fill="#c69267" d="M62 15.346L31.959 2 1.999 15.309v33.383L31.959 62 62 48.656v-33.31z"></path>
+  <path data-name="layer2" fill="#e6edf7" d="M54 31.56l-12 5.332V48.19l12-5.331V31.56z"></path>
+  <path data-name="opacity" fill="#fff" opacity=".15" d="M61.94 15.318L31.96 2 2 15.309v.038l29.939 13.297L61.94 15.318z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".15" d="M2 15.347v33.345L31.979 62H32l-.061-33.356L2 15.347z"></path>
+  <path data-name="layer1" fill="#ffdda4" d="M15.916 9.127l29.982 13.316 4.928-2.188L20.843 6.939l-4.927 2.188z"></path>
+</svg>

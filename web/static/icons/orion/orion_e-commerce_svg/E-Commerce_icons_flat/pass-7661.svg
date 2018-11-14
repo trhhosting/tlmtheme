@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Pass</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer1"
+  d="M33.539 6L6 33.54a7.106 7.106 0 0 1 .178 9.853l14.43 14.429a7.112 7.112 0 0 1 9.854.178L58 30.463a7.118 7.118 0 0 1 0-10.072L43.611 6a7.118 7.118 0 0 1-10.072 0z"
+  fill="#d2ddf0"></path>
+  <path data-name="layer2" d="M29.221 47.729a3.057 3.057 0 0 1-4.317 0L16.272 39.1a3.051 3.051 0 0 1 0-4.316l18.706-18.712a3.058 3.058 0 0 1 4.317 0l8.632 8.633a3.054 3.054 0 0 1 0 4.318z"
+  fill="#e6edf7"></path>
+  <path data-name="opacity" d="M50.735 13.126L43.61 6a7.119 7.119 0 0 1-10.071 0L6 33.54a7.106 7.106 0 0 1 .178 9.853l7.145 7.145z"
+  fill="#000064" opacity=".15"></path>
+  <path data-name="layer1" d="M43.542 20.319l-4.247-4.247a3.058 3.058 0 0 0-4.317 0L16.272 34.78a3.051 3.051 0 0 0 0 4.316l4.246 4.247z"
+  fill="#d2ddf0"></path>
+</svg>

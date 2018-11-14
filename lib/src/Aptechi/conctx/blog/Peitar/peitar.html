@@ -1,0 +1,63 @@
+<!--     *********    BLOGS 4      *********      -->
+<div *ngFor="let blog of blogs ">
+	<div class="blog-4">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8 ml-auto mr-auto">
+					<h2 class="title text-center">{{blog.title}}</h2>
+					<br />
+				</div>
+			</div>
+			<div class="row">
+				<template ngFor let-card [ngForOf]="blog.cards" >
+					<div *ngIf="card.id == 1 || card.id % 3 != 0 && card.id != null" class="col-md-6">
+						<div class="card card-plain card-blog text-center">
+							<div class="card-image">
+								<a [href]="card.content['subTitleLink']">
+									<img class="img" [src]="card.photo" />
+								</a>
+							</div>
+							<div class="card-body">
+								<h6 class="card-category text-warning">{{card.title}}</h6>
+								<h3 class="card-title">
+									<a [href]="card.content['subTitleLink']">{{card.content['subTitle']}}</a>
+								</h3>
+								<p class="card-description">
+									{{card.content['description']}}
+								</p>
+								<br/>
+								<a [href]="card.content['descMoreLink']" [class]="card.content['descBtn']"> {{card.content['descMore']}}</a>
+							</div>
+						</div>
+					</div>
+				</template>
+				<template ngFor let-card [ngForOf]="blog.cards">
+					<div *ngIf="card.id != null && card.id % 2 != 0" class="col-md-6">
+						<div class="card card-plain card-blog text-center">
+							<div class="card-image">
+								<a [href]="card.content['subTitleLink']">
+									<img class="img" [src]="card.photo" />
+								</a>
+							</div>
+							<div class="card-body">
+								<h6 class="card-category text-warning">{{card.title}}</h6>
+								<h3 class="card-title">
+									<a [href]="card.content['subTitleLink']">{{card.content['subTitle']}}</a>
+								</h3>
+								<p class="card-description">
+									{{card.content['description']}}
+								</p>
+								<br/>
+								<a [href]="card.content['descMoreLink']" [class]="card.content['descBtn']" > {{card.content['descMore']}}</a>
+							</div>
+						</div>
+					</div>
+
+				</template>
+
+			</div>
+		</div>
+	</div>
+
+</div>
+<!--     *********    END BLOGS 4      *********      -->

@@ -1,0 +1,63 @@
+<!--     *********     FEATURES 2      *********      -->
+<div class="features-2">
+	<div *ngFor="let c of data" class="container">
+		<div class="row">
+			<div class="col-md-8 ml-auto mr-auto text-center">
+				<h2 class="title">{{c.title}}</h2>
+				<h5 class="description">{{c.subTitle}}</h5>
+				<br/>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-4">
+				<div class="card" data-background="image" [style.background-image]="'url('+ c.card1.photo +')'" >
+					<div class="card-body">
+						<h6 class="card-category">{{c.card1.title}}</h6>
+						<div class="card-icon">
+							<i class="nc-icon nc-world-2"></i>
+						</div>
+						<p class="card-description">{{c.card1.subTitle}}</p>
+						<div class="card-footer">
+							<a [href]="c.card1.content['buttonLink']" class="btn btn-link btn-neutral">
+								<i class="fa fa-book" aria-hidden="true"></i> {{c.card1.content['buttonText']}}
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="card" data-background="image" [style.background-image]="'url('+ c.card2.photo +')'">
+					<div class="card-body">
+						<h6 class="card-category">{{c.card2.title}}</h6>
+						<div class="card-icon">
+							<i class="nc-icon nc-single-copy-04"></i>
+						</div>
+						<p class="card-description">{{c.card2.subTitle}}</p>
+						<div class="card-footer">
+							<a [href]="c.card2.content['buttonLink']" class="btn btn-link btn-neutral">
+								<i class="fa fa-book" aria-hidden="true"></i> {{c.card1.content['buttonText']}}
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="card" data-background="image" [style.background-image]="'url('+ c.card3.photo +')'">
+					<div class="card-body">
+						<h6 class="card-category">{{c.card3.title}}</h6>
+						<div class="card-icon">
+							<i class="nc-icon nc-time-alarm"></i>
+						</div>
+						<p class="card-description">{{c.card3.subTitle}}</p>
+						<div class="card-footer">
+							<a [href]="c.card3.content['buttonLink']" class="btn btn-link btn-neutral">
+								<i class="fa fa-book" aria-hidden="true"></i> {{c.card3.content['buttonText']}}
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--     *********    END FEATURES 2      *********      -->

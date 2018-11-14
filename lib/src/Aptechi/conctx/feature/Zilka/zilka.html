@@ -1,0 +1,53 @@
+<!--     *********     FEATURES 5      *********      -->
+<template ngFor let-c [ngForOf]="data">
+	<div class="features-5 section-image" [style.background-image]="'url('+ c.photo +')'">
+		<div class="container">
+			<div class="row">
+				<div class="ml-auto mr-auto">
+					<h2 class="title text-center">{{c.title}}</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-5 ml-auto">
+					<div class="info">
+						<div class="icon">
+							<i class="nc-icon nc-atom" aria-hidden="true"></i>
+						</div>
+						<h4 class="title">{{c.card1.title}}</h4>
+						<p>{{c.card1.subTitle}}</p>
+					</div>
+				</div>
+				<div class="col-sm-5 mr-auto">
+					<div class="info">
+						<div class="icon">
+							<i class="nc-icon nc-ruler-pencil" aria-hidden="true"></i>
+						</div>
+						<h4 class="title">{{c.card2.title}}</h4>
+						<p>{{c.card2.subTitle}}</p>
+					</div>
+				</div>
+			</div>
+			<div class="row bottom-line">
+				<div class="col-sm-5 ml-auto">
+					<div class="info">
+						<div class="icon">
+							<i class="nc-icon nc-paper" aria-hidden="true"></i>
+						</div>
+						<h4 class="title">{{c.card3.title}}</h4>
+						<p>{{c.card3.subTitle}}</p>
+					</div>
+				</div>
+				<div class="col-sm-5 mr-auto">
+					<div class="info">
+						<div class="icon">
+							<i class="nc-icon nc-time-alarm" aria-hidden="true"></i>
+						</div>
+						<h4 class="title">{{c.card4.title}}</h4>
+						<p>{{c.card4.subTitle}}</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</template>
+<!--     *********    END FEATURES 5      *********      -->

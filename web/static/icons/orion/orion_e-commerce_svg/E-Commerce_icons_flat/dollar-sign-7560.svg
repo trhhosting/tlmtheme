@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Dollar Sign</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <circle data-name="layer1"
+  cx="32" cy="32" r="30" fill="#ffdda4"></circle>
+  <path data-name="opacity" d="M2 32a30 30 0 0 0 30 30V2A30 30 0 0 0 2 32z"
+  fill="#000064" opacity=".1"></path>
+  <path data-name="opacity" d="M41 39.334c0-2.885-1.523-6.668-8.774-8.306C27.43 29.931 25 27.791 25 24.668c0-3.67 2.944-6.334 7-6.334a6.973 6.973 0 0 1 6.9 5.831 1 1 0 1 0 1.973-.331A8.959 8.959 0 0 0 33 16.4V12a1 1 0 0 0-2 0v4.38c-4.691.418-8 3.773-8 8.288 0 2.875 1.523 6.65 8.777 8.31C36.571 34.059 39 36.2 39 39.334c0 3.67-2.944 6.333-7 6.333a7.008 7.008 0 0 1-7-7 1 1 0 0 0-2 0 9.011 9.011 0 0 0 8 8.941V52a1 1 0 1 0 2 0v-4.38c4.691-.42 8-3.772 8-8.286z"
+  fill="#000064" opacity=".1"></path>
+</svg>

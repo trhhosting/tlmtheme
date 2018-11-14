@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Satchel Bag</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  d="M62 36.5a10 10 0 0 0-10-10H12a10 10 0 0 0-10 10v2h60z" fill="#de9372"></path>
+  <path data-name="layer1" d="M2 38.5v19a5 5 0 0 0 5 5h50a5 5 0 0 0 5-5v-19z"
+  fill="#f7c98a"></path>
+  <path data-name="opacity" d="M44.476 26.5H12a10 10 0 0 0-10 10v21a5 5 0 0 0 5 5h6.417l31.294-31.293z"
+  fill="#000064" opacity=".1"></path>
+  <path data-name="layer1" d="M44 31.5a1 1 0 0 1-1-1v-16a11 11 0 0 0-22 0v16a1 1 0 0 1-2 0v-16a13 13 0 0 1 26 0v16a1 1 0 0 1-1 1z"
+  fill="#f7c98a"></path>
+</svg>

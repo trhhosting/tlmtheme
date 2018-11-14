@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Hand Truck</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <circle data-name="layer4"
+  cx="25" cy="50.1" r="8" fill="#a6b1c9"></circle>
+  <path data-name="layer3" fill="#fc9" d="M59 32.1L30.9 42.6l-9.5-26.5L49.5 5.9 59 32.1z"></path>
+  <path data-name="layer2" fill="#e0eafc" d="M40.2 9.5l4.5 12.9-9 3.4L31 12.6"></path>
+  <circle data-name="layer1" cx="25" cy="50.1" r="1" fill="#7b8baf"></circle>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M33 49.3l22-7.9 6 2m-38-1L11 10.1H3"></path>
+  <circle data-name="stroke" cx="25" cy="50.1" r="8" fill="none"
+  stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M59 32.4L30.9 42.6l-9.5-26.5L49.5 5.9 59 32.4z"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M40.2 9.5l4.5 12.9-9 3.4L31 12.6"></path>
+  <circle data-name="stroke" cx="25" cy="50.1" r="1" fill="none"
+  stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+</svg>

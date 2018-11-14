@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Receipt</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer3"
+  fill="#cce3ff" d="M20.07 59.988l-6.064-3.997-5.979 3.986V4H56v55.977l-5.996-3.986-5.981 3.986-5.998-3.986-5.978 3.986-6-3.986-5.977 3.986"></path>
+  <path data-name="opacity" fill="#000064" opacity=".15" d="M8 4h48v4H8z"></path>
+  <path data-name="layer1" d="M34 15H18a1 1 0 0 1 0-2h16a1 1 0 0 1 0 2zm0 20H18a1 1 0 1 1 0-2h16a1 1 0 0 1 0 2zm-4-12H18a1 1 0 0 1 0-2h12a1 1 0 1 1 0 2zm0 20H18a1 1 0 0 1 0-2h12a1 1 0 1 1 0 2z"
+  fill="#7b8baf"></path>
+  <path data-name="layer2" d="M46 15h-4a1 1 0 0 1 0-2h4a1 1 0 0 1 0 2zm0 20h-4a1 1 0 0 1 0-2h4a1 1 0 0 1 0 2zm0-12h-4a1 1 0 0 1 0-2h4a1 1 0 0 1 0 2zm0 20h-4a1 1 0 0 1 0-2h4a1 1 0 0 1 0 2z"
+  fill="#f27e7c"></path>
+  <path data-name="layer1" d="M62 5.012H2a1 1 0 0 1 0-2h60a1 1 0 0 1 0 2z"
+  fill="#7b8baf"></path>
+</svg>

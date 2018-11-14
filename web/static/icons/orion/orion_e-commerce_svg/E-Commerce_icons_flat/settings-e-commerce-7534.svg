@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Settings E-commerce</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer3"
+  fill="#a7c5f2" d="M37.517 51.999H11.535l-5.95-30h51.934L55.256 33.31l-4.739 18.689h-13z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".1" d="M42.483 33l-5.502 5.502-1.478-1.479-14.977 14.976h29.991l2.218-8.747L42.483 33z"></path>
+  <path data-name="layer2" d="M7.584 23a.989.989 0 0 1-.667-.254 1 1 0 0 1-.078-1.413l17.934-20a1 1 0 0 1 1.489 1.334l-17.933 20a1 1 0 0 1-.745.333zm47.935 0a1 1 0 0 1-.745-.331l-18-20a1 1 0 1 1 1.486-1.337l18 20a1 1 0 0 1-.076 1.411.987.987 0 0 1-.665.257z"
+  fill="#7b8baf"></path>
+  <path data-name="layer1" d="M59.517 23h-56a1 1 0 1 1 0-2h56a1 1 0 1 1 0 2z"
+  fill="#c3d6f9"></path>
+  <path data-name="layer2" d="M58.1 50.07a11.747 11.747 0 0 0 .188-2.081 11.88 11.88 0 0 0-.223-2.254l3.087-1.781-4-6.93-3.133 1.809a11.02 11.02 0 0 0-3.536-2.133V33h-8v3.7a12.949 12.949 0 0 0-3.9 2.105L35.5 37.023l-4 6.931 3.012 1.738a11.809 11.809 0 0 0-.23 2.3 11.971 11.971 0 0 0 .195 2.125l-3.312 1.909 4 6.93 3.281-1.895A12.324 12.324 0 0 0 42.483 59v4h8v-4a10.489 10.489 0 0 0 3.671-1.969l3.328 1.922 4-6.93zM46.483 53a5 5 0 1 1 5-5 5 5 0 0 1-5 5z"
+  fill="#7b8baf"></path>
+  <path data-name="layer1" d="M46.483 54a6 6 0 1 1 6-6 6.006 6.006 0 0 1-6 6zm0-10a4 4 0 1 0 4 4 4 4 0 0 0-4-4z"
+  fill="#c3d6f9"></path>
+</svg>

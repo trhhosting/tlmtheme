@@ -1,0 +1,48 @@
+<!--     *********     FEATURES 4      *********      -->
+<div class="features-4">
+	<div *ngFor="let c of data" class="container">
+		<div class="row">
+			<div class="col-md-8 ml-auto mr-auto text-center">
+				<h2 class="title">{{c.title}}</h2>
+				<h5 class="description">{{c.subTitle}}</h5>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-6">
+				<div class="ipad-container">
+					<img [src]="c.photo" />
+				</div>
+			</div>
+			<div class="col-md-4 offset-1">
+				<div class="info info-horizontal">
+					<div class="icon icon-info">
+						<i class="nc-icon nc-atom" aria-hidden="true"></i>
+					</div>
+					<div class="description">
+						<h4 class="info-title">{{c.card1.title}}</h4>
+						<p>{{c.card1.subTitle}}</p>
+					</div>
+				</div>
+				<div class="info info-horizontal">
+					<div class="icon icon-success">
+						<i class="nc-icon nc-ruler-pencil" aria-hidden="true"></i>
+					</div>
+					<div class="description">
+						<h4 class="info-title">{{c.card2.title}}</h4>
+						<p>{{c.card2.subTitle}}</p>
+					</div>
+				</div>
+				<div class="info info-horizontal">
+					<div class="icon icon-danger">
+						<i class="nc-icon nc-tie-bow" aria-hidden="true"></i>
+					</div>
+					<div class="description">
+						<h4 class="info-title">{{c.card3.title}}</h4>
+						<p>{{c.card3.subTitle}}</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--     *********    END FEATURES 4      *********      -->

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Sales Performance Up</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer6"
+  fill="#7c97c5" d="M49 23.987h8v38.014h-8z"></path>
+  <path data-name="layer5" fill="#a2b8df" d="M35 33.991h8V62h-8z"></path>
+  <path data-name="layer4" fill="#afc1db" d="M21 43.997h8V62h-8z"></path>
+  <path data-name="layer3" fill="#d2ddf0" d="M7 54.001h8v8H7z"></path>
+  <path data-name="layer2" d="M60 63H4a1 1 0 0 1 0-2h56a1 1 0 0 1 0 2z"
+  fill="#7b8baf"></path>
+  <path data-name="layer1" d="M55.971 3.849a.951.951 0 0 0-.011-.117.99.99 0 0 0-.171-.336l-.007-.013a.916.916 0 0 0-.078-.066.994.994 0 0 0-.2-.168.947.947 0 0 0-.163-.066.932.932 0 0 0-.148-.06l-10-2a1 1 0 0 0-.393 1.958l7.88 1.579L6.379 41.216a1 1 0 0 0 1.241 1.568L53.784 6.24l-.717 7.667a1 1 0 0 0 .9 1.089h.094a1 1 0 0 0 .995-.907l.936-10a.953.953 0 0 0-.021-.24z"
+  fill="#92d5b5"></path>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Trolley</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer3"
+  fill="#c3d6f9" d="M17.996 42.988h34l8-24H13.004l4.992 24z"></path>
+  <circle data-name="layer2" cx="22.004" cy="52.988" r="4" fill="#7b8baf"></circle>
+  <circle data-name="layer2" cx="48.004" cy="52.988" r="4" fill="#7b8baf"></circle>
+  <path data-name="layer1" d="M52 43.988H18.087a1 1 0 0 1-.976-.782L9.2 7.989H4a1 1 0 0 1 0-2h6a1 1 0 0 1 .976.78l7.908 35.22H52a1 1 0 0 1 0 2z"
+  fill="#8fa9d8"></path>
+</svg>

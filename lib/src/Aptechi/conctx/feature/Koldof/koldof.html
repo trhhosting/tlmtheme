@@ -1,0 +1,62 @@
+<!--     *********     FEATURES 1      *********      -->
+<div class="features-1">
+	<div *ngFor="let c of data" class="container">
+		<div class="row">
+			<div class="col-md-8 ml-auto mr-auto text-center">
+				<h2 class="title">{{c.title}}</h2>
+				<h5 class="description">{{c.subTitle}}</h5>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-3">
+				<div class="info">
+					<div class="icon icon-danger">
+						<i class="nc-icon nc-palette"></i>
+					</div>
+					<div class="description">
+						<h4 class="info-title">{{c.card1.title}}</h4>
+						<p class="description">{{c.card1.subTitle}}</p>
+						<a [href]="c.card1.content['buttonLink']" class="btn btn-link btn-danger">{{c.card1.content['buttonText']}}</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="info">
+					<div class="icon icon-danger">
+						<i class="nc-icon nc-bulb-63"></i>
+					</div>
+					<div class="description">
+						<h4 class="info-title">{{c.card2.title}}</h4>
+						<p>{{c.card2.subTitle}}</p>
+						<a [href]="c.card2.content['buttonLink']" class="btn btn-link btn-danger">{{c.card2.content['buttonText']}}</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="info">
+					<div class="icon icon-danger">
+						<i class="nc-icon nc-chart-bar-32"></i>
+					</div>
+					<div class="description">
+						<h4 class="info-title">{{c.card3.title}}</h4>
+						<p>{{c.card3.subTitle}}</p>
+						<a [href]="c.card3.content['buttonLink']" class="btn btn-link btn-danger">{{c.card3.content['buttonText']}}</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="info">
+					<div class="icon icon-danger">
+						<i class="nc-icon nc-sun-fog-29"></i>
+					</div>
+					<div class="description">
+						<h4 class="info-title">{{c.card4.title}}</h4>
+						<p>{{c.card4.subTitle}}</p>
+						<a [href]="c.card4.content['buttonLink']" class="btn btn-link btn-danger">{{c.card4.content['buttonText']}}</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--     *********    END FEATURES 1      *********      -->

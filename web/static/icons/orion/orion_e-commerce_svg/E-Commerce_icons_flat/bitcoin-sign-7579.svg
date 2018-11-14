@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Bitcoin Sign</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <circle data-name="layer1"
+  cx="32.008" cy="32" r="30" fill="#ffdda4"></circle>
+  <path data-name="opacity" d="M32 2a30 30 0 0 0 0 60z" fill="#000064"
+  opacity=".1"></path>
+  <path data-name="opacity" d="M39.223 29.914a7.757 7.757 0 0 0 3.795-6.9A7.747 7.747 0 0 0 35.007 15H34v-3a1 1 0 0 0-2 0v3h-4v-3a1 1 0 0 0-2 0v3h-3a1 1 0 0 0-1 1v32a1 1 0 0 0 1 1l3.014.008V52a1 1 0 0 0 2 0v-2.989l4 .01V52a1 1 0 0 0 2 0v-2.974h1.667c5.408 0 10.333-4.78 10.333-10.029-.006-4.091-3.131-7.517-6.791-9.083zM24 17h11.014a5.813 5.813 0 0 1 6.01 6.01A5.8 5.8 0 0 1 35.008 29H24zm11.677 30.029l-2.556-.006a1.01 1.01 0 0 0-.113-.023.975.975 0 0 0-.111.023l-5.85-.014c-.014 0-.025-.008-.039-.008s-.024.007-.038.008L24 47V31h11.008c4.077 0 9 3.569 9 8 0 4.127-4.05 8.029-8.331 8.029z"
+  fill="#000064" opacity=".1"></path>
+</svg>

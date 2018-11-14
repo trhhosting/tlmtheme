@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Download Package</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <circle data-name="layer4"
+  cx="46" cy="45" r="16" fill="#1bd466"></circle>
+  <path data-name="layer3" d="M46 29a15.985 15.985 0 0 1 3.987.521l.013-.012V15.4L40.4 3H11.6L2 15.4V49h28.5l.017-.017A15.943 15.943 0 0 1 46 29z"
+  fill="#c69267"></path>
+  <path data-name="opacity" fill="#fff" opacity=".15" d="M40.402 3H11.6L2.266 15.001 49.734 15 40.402 3z"></path>
+  <path data-name="layer2" fill="#ffdda4" d="M20 15l12 .001L29 3l-6-.001L20 15z"></path>
+  <path data-name="layer1" d="M52.716 46.29a1 1 0 0 0-1.414 0l-4.3 4.3V37a1 1 0 0 0-2 0v13.587l-4.3-4.3a1 1 0 1 0-1.417 1.413l6.007 6A1.012 1.012 0 0 0 46 54a1.012 1.012 0 0 0 .707-.294l6.009-6a1 1 0 0 0 0-1.416z"
+  fill="#fff"></path>
+  <path data-name="opacity" d="M34.721 33.651L19.372 49H30.5l.017-.017a15.874 15.874 0 0 1 4.2-15.33z"
+  fill="#000064" opacity=".15"></path>
+</svg>
